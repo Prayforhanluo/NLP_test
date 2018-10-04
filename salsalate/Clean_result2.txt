@@ -1,0 +1,2538 @@
+﻿
+
+Salsalate Improves Glycemia in Overweight Persons With Diabetes Risk Factors of
+Stable Statin-Treated Cardiovascular Disease: a 30-month Randomized
+Placebo-Controlled Trial.
+
+
+
+Obesity related sub-acute chronic inflammation contributes to type 2 diabetes and
+atherosclerosis (1,2) . Multiple studies target inflammation to reduce
+dysglycemia and/or coronary heart disease (CHD) using diverse anti-inflammatory
+approaches. Several show salsalate, a pro-drug of salicylate, improves glycemia
+in type 2 diabetes, obesity, or impaired glucose tolerance. Durability of
+glycemic efficacy and safety of salsalate remains less well understood.
+
+This article is protected by copyright. All rights reserved.
+
+
+
+Salsalate treatment following traumatic brain injury reduces inflammation and
+promotes a neuroprotective and neurogenic transcriptional response with
+concomitant functional recovery.
+
+
+Neuroinflammation plays a critical role in the pathogenesis of traumatic brain
+injury (TBI). TBI induces rapid activation of astrocytes and microglia,
+infiltration of peripheral leukocytes, and secretion of inflammatory cytokines.
+In the context of modest or severe TBI, such inflammation contributes to tissue
+destruction and permanent brain damage. However, it is clear that the
+inflammatory response is also necessary to promote post-injury healing. To date, 
+anti-inflammatory therapies, including the broad class of non-steroidal
+anti-inflammatory drugs (NSAIDs), have met with little success in treatment of
+TBI, perhaps because these drugs have inhibited both the tissue-damaging and
+repair-promoting aspects of the inflammatory response, or because inhibition of
+inflammation alone is insufficient to yield therapeutic benefit. Salsalate is an 
+unacetylated salicylate with long history of use in limiting inflammation. This
+drug is known to block activation of NF-κB, and recent data suggest that
+salsalate has a number of additional biological activities, which may also
+contribute to its efficacy in treatment of human disease. Here, we show that
+salsalate potently blocks pro-inflammatory gene expression and nitrite secretion 
+by microglia in vitro. Using the controlled cortical impact (CCI) model in mice, 
+we find that salsalate has a broad anti-inflammatory effect on in vivo
+TBI-induced gene expression, when administered post-injury. Interestingly,
+salsalate also elevates expression of genes associated with neuroprotection and
+neurogenesis, including the neuropeptides, oxytocin and thyrotropin releasing
+hormone. Histological analysis reveals salsalate-dependent decreases in numbers
+and activation-associated morphological changes in microglia/macrophages,
+proximal to the injury site. Flow cytometry data show that salsalate changes the 
+kinetics of CCI-induced accumulation of various populations of CD11b-positive
+myeloid cells in the injured brain. Behavioral assays demonstrate that salsalate 
+treatment promotes significant recovery of function following CCI. These
+pre-clinical data suggest that salsalate may show promise as a TBI therapy with a
+multifactorial mechanism of action to enhance functional recovery.
+
+Published by Elsevier Inc.
+
+
+
+
+Salsalate treatment for prediabetes: a therapeutic alternative?
+
+
+Effect of Treatment with Salsalate, Menhaden Oil, Combination of Salsalate and
+Menhaden Oil, or Resolvin D1 of C57Bl/6J Type 1 Diabetic Mouse on Neuropathic
+Endpoints.).
+
+
+Aims. In this study a streptozotocin induced type 1 diabetes mouse model was used
+to assess the effectiveness of salsalate, menhaden oil, the combination of
+salsalate and menhaden oil, or resolvin D1 on neuropathic endpoints. Materials
+and Methods. Changes in body weight, blood glucose, serum markers for
+triglycerides, free fatty acids, cholesterol, and resolvin D1, motor and sensory 
+nerve conduction velocities and thermal sensitivity were assessed, as well as
+performing in vivo confocal microscopy of subepithelial corneal nerves and
+immunohistochemistry of nerves in the cornea and foot pad. Results. Diabetic
+animals failed to gain weight and had elevated blood glucose levels. Diabetic
+mice had slowed nerve conduction velocity, reduced innervation of the foot pad
+and cornea subepithelial and epithelial layers, and reduced thermal sensitivity. 
+Monotherapy treatment with salsalate, menhaden oil, and resolvin D1 reduced the
+pathological signs of diabetic neuropathy. The combination of salsalate and
+menhaden oil also reduced signs of pathology and generated elevated plasma levels
+of resolvin D1 compared to other groups. Conclusions. Additional studies are
+needed to determine whether the combination of salsalate and menhaden oil may be 
+more efficacious than monotherapy alone for the treatment of diabetic peripheral 
+neuropathy.
+
+
+
+
+Salsalate (Salicylate) Uncouples Mitochondria, Improves Glucose Homeostasis, and 
+Reduces Liver Lipids Independent of AMPK-β1.
+
+
+
+
+Salsalate is a prodrug of salicylate that lowers blood glucose in patients with
+type 2 diabetes (T2D) and reduces nonalcoholic fatty liver disease (NAFLD) in
+animal models; however, the mechanism mediating these effects is unclear.
+Salicylate directly activates AMPK via the β1 subunit, but whether salsalate
+requires AMPK-β1 to improve T2D and NAFLD has not been examined. Therefore,
+wild-type (WT) and AMPK-β1-knockout (AMPK-β1KO) mice were treated with a
+salsalate dose resulting in clinically relevant serum salicylate concentrations
+(∼1 mmol/L). Salsalate treatment increased VO2, lowered fasting glucose, improved
+glucose tolerance, and led to an ∼55% reduction in liver lipid content. These
+effects were observed in both WT and AMPK-β1KO mice. To explain these
+AMPK-independent effects, we found that salicylate increases
+oligomycin-insensitive respiration (state 4o) and directly increases
+mitochondrial proton conductance at clinical concentrations. This uncoupling
+effect is tightly correlated with the suppression of de novo lipogenesis.
+Salicylate is also able to stimulate brown adipose tissue respiration independent
+of uncoupling protein 1. These data indicate that the primary mechanism by which 
+salsalate improves glucose homeostasis and NAFLD is via salicylate-driven
+mitochondrial uncoupling.
+
+
+
+Conflict of interest statement: Duality of Interest. No potential conflicts of
+interest relevant to this article were reported.
+
+
+
+Informative Neutral Studies Matter-Why the Targeting Inflammation With Salsalate 
+in Cardiovascular Disease (TINSAL-CVD) Trial Deserves Our Attention.
+
+Ridker PM(1).
+
+
+
+
+
+
+Effect of Targeting Inflammation With Salsalate: The TINSAL-CVD Randomized
+Clinical Trial on Progression of Coronary Plaque in Overweight and Obese Patients
+Using Statins.
+
+Hauser TH(1), Salastekar N(2), Schaefer EJ(3), Desai T(4), Goldfine HL(5), Fowler
+KM(6), Weber GM(7), Welty F(1), Clouse M(8), Shoelson SE(4), Goldfine AB(9);
+Targeting Inflammation Using Salsalate in Cardiovascular Disease (TINSAL-CVD)
+Study Team.
+
+
+
+IMPORTANCE: Inflammation may contribute to pathological associations among
+obesity, diabetes mellitus, and cardiovascular disease.
+OBJECTIVE: To determine whether targeting inflammation using salsalate compared
+with placebo reduces progression of noncalcified coronary artery plaque.
+DESIGN, SETTING, AND PARTICIPANTS: In the Targeting Inflammation Using Salsalate 
+in Cardiovascular Disease (TINSAL-CVD) trial participants were randomly assigned 
+between September 23, 2008, and July 5, 2012, to 30 months of salsalate or
+placebo in addition to standard, guideline-based therapies. Randomization was
+computerized and centrally allocated, with patients, health care professionals,
+and researchers masked to treatment assignment. Participants were overweight and 
+obese statin-using patients with established, stable coronary heart disease.
+INTERVENTIONS: Salsalate (3.5 g/d) or placebo orally over 30 months.
+MAIN OUTCOMES AND MEASURES: The primary outcome was progression of noncalcified
+coronary artery plaque assessed by multidetector computed tomographic
+angiography. Secondary outcomes were other measures of safety and efficacy.
+RESULTS: Two hundred fifty-seven participants were randomized to salsalate
+(n = 129) or placebo (n = 128). Their mean (SD) age was 60.8 (7.0) years, and
+salsalate group and 101 in the placebo group) completed the study. Compared with 
+baseline, there was no increase in noncalcified plaque volume in the
+placebo-treated patients and no difference in change between the salsalate and
+placebo groups (mean difference, -1 mm3; 95% CI, -11 to 9 mm3; P = .87).
+Salsalate treatment decreased total white blood cell, lymphocyte, monocyte, and
+neutrophil counts and increased adiponectin levels without change in C-reactive
+protein levels. Fasting glucose, triglycerides, uric acid, and bilirubin levels
+were decreased in the salsalate group compared with the placebo group, while
+hemoglobin levels were increased. Urinary albumin levels increased, with tinnitus
+and atrial arrhythmias more common, in the salsalate group compared with the
+placebo group.
+CONCLUSIONS AND RELEVANCE: Salsalate when added to current therapies that include
+a statin does not reduce progression of noncalcified coronary plaque volume
+assessed by multidetector computed tomographic angiography in statin-using
+patients with established, stable coronary heart disease. The absence of
+progression of noncalcified plaque volume in the placebo group may limit
+interpretation of the trial results.
+TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT00624923.
+
+
+
+
+Renal Toxicity Associated with Salsalate in Elderly Adults with Anemia.
+
+
+
+
+
+Salsalate-induced changes in lipid, lipoprotein, and apoprotein concentrations in
+overweight or obese, insulin-resistant, nondiabetic individuals.
+
+
+
+BACKGROUND AND OBJECTIVE: Although salsalate administration consistently lowers
+plasma triglyceride concentrations in patients with type II diabetes,
+prediabetes, and/or insulin resistance, changes in low-density lipoprotein
+cholesterol (LDL-C) concentrations have been inconsistent; varying from no change
+to a significant increase. To evaluate the clinical relevance of this discordance
+in more detail, we directly measured LDL-C and obtained a comprehensive
+assessment of changes in lipid, lipoprotein, and apoprotein concentrations
+associated with salsalate use in insulin-resistant individuals, overweight or
+obese, but without diabetes, using vertical auto profile method.
+METHODS: A single-blind, randomized, placebo-controlled study was performed in
+volunteers who were overweight or obese, without diabetes, and insulin resistant 
+on the basis of their steady-state plasma glucose concentration during an insulin
+suppression test. Participants were randomized 2:1 to receive salsalate 3.5 g/d
+(n = 27) or placebo (n = 14) for 4 weeks. Comprehensive lipid, lipoprotein, and
+apoprotein analysis by vertical auto profile was obtained after an overnight
+fast, before and after study intervention.
+RESULTS: There was no change in directly measured LDL-C concentration in
+salsalate-treated individuals. However, salsalate administration was associated
+with various changes considered to decrease atherogenicity; including decreases
+in triglyceride and total very low-density lipoprotein cholesterol (VLDL-C)
+concentrations, a shift from small denser LDL lipoproteins toward larger, more
+buoyant LDL particles, decreases in VLDL(1+2)-C and LDL(4)-C, and nonsignificant 
+decreases in non-high-density lipoprotein cholesterol and apolipoprotein B. No
+significant changes occurred in the placebo-treated group.
+CONCLUSIONS: Atherogenicity of the lipid, lipoprotein, and apoprotein profile of 
+insulin-resistant individuals who were overweight or obese improved significantly
+in association with salsalate treatment. The clinical importance of this finding 
+awaits further study.
+
+Copyright © 2015 National Lipid Association. Published by Elsevier Inc. All
+rights reserved.
+
+
+
+
+Salsalate attenuates diet induced non-alcoholic steatohepatitis in mice by
+decreasing lipogenic and inflammatory processes.
+
+Liang W(1,)(2), Verschuren L(3), Mulder P(1), van der Hoorn JW(1), Verheij J(4), 
+van Dam AD(2), Boon MR(2), Princen HM(1), Havekes LM(1,)(2), Kleemann R(1), van
+den Hoek AM(1).
+
+
+
+BACKGROUND AND PURPOSE: Salsalate (salicylsalicylic acid) is an anti-inflammatory
+drug that was recently found to exert beneficial metabolic effects on glucose and
+lipid metabolism. Although its utility in the prevention and management of a wide
+range of vascular disorders, including type 2 diabetes and metabolic syndrome has
+been suggested before, the potential of salsalate to protect against
+non-alcoholic steatohepatitis (NASH) remains unclear. The aim of the present
+study was therefore to ascertain the effects of salsalate on the development of
+NASH.
+EXPERIMENTAL APPROACH: Transgenic APOE*3Leiden.CETP mice were fed a high-fat and 
+high-cholesterol diet with or without salsalate for 12 and 20 weeks. The effects 
+on body weight, plasma biochemical variables, liver histology and hepatic gene
+expression were assessed.
+KEY RESULTS: Salsalate prevented weight gain, improved dyslipidemia and insulin
+resistance and ameliorated diet-induced NASH, as shown by decreased hepatic
+microvesicular and macrovesicular steatosis, reduced hepatic inflammation and
+reduced development of fibrosis. Salsalate affected lipid metabolism by
+increasing β-oxidation and decreasing lipogenesis, as shown by the activation of 
+PPAR-α, PPAR-γ co-activator 1β, RXR-α and inhibition of genes controlled by the
+transcription factor MLXIPL/ChREBP. Inflammation was reduced by down-regulation
+of the NF-κB pathway, and fibrosis development was prevented by down-regulation
+of TGF-β signalling.
+CONCLUSIONS AND IMPLICATIONS: Salsalate exerted a preventive effect on the
+development of NASH and progression to fibrosis. These data suggest a clinical
+application of salsalate in preventing NASH.
+
+
+
+
+
+Salsalate has no effect on insulin secretion but decreases insulin clearance: a
+randomized, placebo-controlled trial in subjects without diabetes.
+
+Penesova A(1), Koska J, Ortega E, Bunt JC, Bogardus C, de Courten B.
+
+
+
+To elucidate whether increased insulin concentration after salsalate treatment
+(3 g/day for 7 days) is attributable to an increased insulin secretion rate (ISR)
+or to reduced metabolic clearance of endogenous insulin (MCI) during stepped
+glucose infusion (SGI). The analysis was performed in obese subjects who
+participated in a randomized double-blind, parallel, placebo-controlled clinical 
+trial. A total of 27 participants (16 on salsalate, 11 on placebo) completed
+baseline and follow-up SGI. During SGI in the salsalate group, C-peptide
+concentrations were reduced by 11%, while plasma insulin concentrations were
+increased by 30%, corresponding to a 30% reduction in MCI (p < 0.0001). At molar 
+increments of glucose, insulin concentrations were increased by 27% (p = 0.02),
+but ISR was unchanged. Salsalate did not alter insulin secretion, but lowered
+MCI, indicating that a reduction in insulin clearance is the principal mechanism 
+for increased insulin levels after salsalate administration.
+
+
+
+
+Feb 3.
+
+Salsalate treatment improves glycemia without altering adipose tissue in
+nondiabetic obese hispanics.
+
+Alderete TL(1), Sattler FR, Richey JM, Allayee H, Mittelman SD, Sheng X, Tucci J,
+Gyllenhammer LE, Grant EG, Goran MI.
+
+
+
+OBJECTIVE: Salsalate treatment has well-known effects on improving glycemia, and 
+the objective of this study was to examine whether the mechanism of this effect
+was related to changes in adipose tissue.
+METHODS: A randomized double-blind and placebo-controlled trial in obese
+Hispanics (18-35 years) was conducted. The intervention consisted of 4 g day(-1) 
+of salsalate (n = 11) versus placebo (n = 13) for 4 weeks. Outcome measures
+included glycemia, adiposity, ectopic fat, and adipose tissue gene expression and
+inflammation.
+RESULTS: In those receiving salsalate, plasma fasting glucose decreased by 3.4%
+(P < 0.01), free fatty acids decreased by 42.5% (P = 0.06), and adiponectin
+increased by 27.7% (P < 0.01). Salsalate increased insulin AUC by 38% (P = 0.01) 
+and HOMA-B by 47.2% (P < 0.01) while estimates of insulin sensitivity/resistance 
+were unaffected. These metabolic improvements occurred without changes in total, 
+abdominal, visceral, or liver fat. Plasma markers of inflammation/immune
+activation were unchanged following salsalate. Salsalate had no effects on
+adipose tissue including adipocyte size, presence of crown-like structures, or
+gene expression of adipokines, immune cell markers, or cytokines downstream of
+NF-κB with the exception of downregulation of IL-1β (P < 0.01).
+CONCLUSIONS: Findings suggest that metabolic improvements in response to
+salsalate occurred without alterations in adiposity, ectopic fat, or adipose
+tissue gene expression and inflammation.
+
+
+
+
+
+Salsalate activates brown adipose tissue in mice.
+
+
+
+
+
+Salsalate improves glucose intolerance and dyslipidemia in type 2 diabetes
+patients, but the mechanism is still unknown. The aim of the current study was to
+unravel the molecular mechanisms involved in these beneficial metabolic effects
+of salsalate by treating mice with salsalate during and after development of
+high-fat diet-induced obesity. We found that salsalate attenuated and reversed
+high-fat diet-induced weight gain, in particular fat mass accumulation, improved 
+glucose tolerance, and lowered plasma triglyceride levels. Mechanistically,
+salsalate selectively promoted the uptake of fatty acids from glycerol
+tri[(3)H]oleate-labeled lipoprotein-like emulsion particles by brown adipose
+tissue (BAT), decreased the intracellular lipid content in BAT, and increased
+rectal temperature, all pointing to more active BAT. The treatment of
+differentiated T37i brown adipocytes with salsalate increased uncoupled
+respiration. Moreover, salsalate upregulated Ucp1 expression and enhanced
+glycerol release, a dual effect that was abolished by the inhibition of
+cAMP-dependent protein kinase (PKA). In conclusion, salsalate activates BAT,
+presumably by directly activating brown adipocytes via the PKA pathway,
+suggesting a novel mechanism that may explain its beneficial metabolic effects in
+type 2 diabetes patients.
+
+as the work is properly cited, the use is educational and not for profit, and the
+work is not altered.
+
+
+
+
+Salsalate, an old, inexpensive drug with potential new indications: a review of
+the evidence from 3 recent studies.
+
+
+
+BACKGROUND: Diabetes is a well-known growing epidemic, but prediabetes is
+increasing at an even greater rate. Lifestyle changes are effective tools to
+prevent the progression of prediabetes to diabetes, yet many people are unable to
+follow such changes. Salsalate has been suggested as a possible treatment for
+diabetes as early as 1876 and as recently as in a 2013 study.
+OBJECTIVE: To review the recently published evidence about the potential
+therapeutic benefits of the old drug salsalate for individuals who meet the
+criteria of having prediabetes.
+DISCUSSION: With the rising incidence of obesity and prediabetes, it has become
+prudent to look for more therapeutic options. Salsalate belongs to the salicylate
+drug class, which has been shown to inhibit I-κB kinase, thereby inhibiting the
+nuclear factor-κB (NF-κB) cascade and decreasing the production of inflammatory
+cytokines, as well as decreasing insulin resistance. Recent short-term clinical
+trials have shown that 3 g to 4.5 g of salicylate therapy daily has the ability
+to lower insulin resistance and to reduce the levels of glucose, triglycerides,
+and free fatty acid concentrations through regulation of the I-κB kinase
+beta/NF-κB pathway, with few if any side effects. However, the effectiveness of
+salsalate as a treatment option for prediabetes is largely unrecognized. This
+article summarizes the current evidence from 3 studies of salsalate therapy in
+the setting of the prediabetic population and presents the case for its use in
+this population.
+CONCLUSION: As shown in this review, salsalate therapy at the dose of 3 g to 4.5 
+g daily can lower insulin resistance and reduce the levels of glucose,
+triglycerides, and free fatty acid concentrations with minimal side effects. This
+inexpensive medication could be a useful option in the treatment of prediabetes. 
+Larger clinical trials are needed, but the data are encouraging and should lay
+the foundation for further investigation and grant funding.
+
+
+
+
+eCollection 2014.
+
+Diabetes disease progression in Goto-Kakizaki rats: effects of salsalate
+treatment.
+
+
+
+This study investigates the antidiabetic effects of salsalate on disease
+progression of diabetes in non-obese diabetic Goto-Kakizaki (GK) rats, an
+experimental model of type 2 diabetes. Salsalate was formulated in rat chow
+(1,000 ppm) and used to feed rats from 5 to 21 weeks of age. At 5 weeks of age,
+GK and Wistar (WIS) control rats were subdivided into four groups, each composed 
+of six rats: GK rats with standard diet (GK-C); GK rats with salsalate-containing
+diet (GK-S); WIS rats with standard diet (WIS-C); and WIS rats with
+salsalate-containing diet (WIS-S). The GK-C rats (167.2±11.6 mg/dL) showed higher
+blood glucose concentrations than WIS-C rats (133.7±4.9 mg/dL, P<0.001) at the
+beginning of the experiment, and had substantially elevated blood glucose from an
+age of 15 weeks until sacrifice at 21 weeks (341.0±133.6 mg/dL). The GK-S rats
+showed an almost flat profile of blood glucose from 4 weeks (165.1±11.0 mg/dL)
+until sacrifice at 21 weeks of age (203.7±22.2 mg/dL). While this difference in
+blood glucose between 4 and 21 weeks in GK-S animals was significant, blood
+glucose at 21 weeks was significantly lower in GK-S compared to GK-C animals. At 
+sacrifice, salsalate decreased plasma insulin (GK-S =1.0±0.3; GK-C =2.0±0.3
+ng/mL, P<0.001) and increased plasma adiponectin concentrations (GK-S =15.9±0.7; 
+GK-C =9.7±2.0 μg/mL, P<0.001). Salsalate also lowered total cholesterol in GK-S
+rats (96.1±8.5 mg/dL) compared with GK-C rats (128.0±11.4 mg/dL, P<0.001).
+Inflammation-related genes (Ifit1 and Iigp1) exhibited much higher mRNA
+expression in GK-C rats than WIS-C rats in liver, adipose, and muscle tissues,
+while salsalate decreased the Ifit1 and Iigp1 mRNA only in adipose tissue. These 
+results suggest that salsalate acts to both increase adiponectin and decrease
+adipose tissue-based inflammation while preventing type 2 diabetes disease
+progression in GK rats.
+
+
+
+
+The effect of salsalate on biochemical factors and endothelial dysfunction of
+prediabetic patients: A randomized clinical trial.
+
+
+
+BACKGROUND: The beneficial effect of using nonacetylated salicylates such as
+salsalate on decreasing the speed of diabetes progression is a controversial
+issue. The aim of this study was to evaluate the effect of salsalate on
+metabolic-syndrome-associated parameters as well as the endothelial function of
+diabetic and impaired glucose tolerance patients.
+MATERIALS AND METHODS: Patients were collected from Isfahan endocrinology
+research center referrals. Patients with impaired glucose tolerance diagnosis or 
+newly diagnosed diabetes were enrolled in the study. Patients were randomized to 
+receive 1.5 g salsalate (2 × 750 mg) BID or placebo twice a day for 3 months.
+After the mentioned period, all patients were recalled and complete examination
+was done; blood samples for biochemistry measurements were drawn (for measuring
+FBS, post prandial glucose, HbA1C, Total cholesterol, HDL, TG, LDL) and forearm
+flow-mediated dilation (FMD) was performed.
+RESULTS: Forty patients were enrolled, 32 patients (80%) were female. Mean age of
+patients was 47.15 ± 6.67 years. FBS (fasting blood sugar) was shown to be
+significantly different between intervention and control subjects before or after
+treatment. FMD increased significantly in the intervention group (P = 0.004).
+CONCLUSION: The study showed that salsalate decreased FBS levels of patients. It 
+may also improve endothelial function as FMD increased significantly in the
+intervention group.
+
+
+
+
+
+Effect of salsalate on insulin action, secretion, and clearance in nondiabetic,
+insulin-resistant individuals: a randomized, placebo-controlled study.
+
+Kim SH(1), Liu A(2), Ariel D(2), Abbasi F(2), Lamendola C(2), Grove K(2), Tomasso
+V(2), Ochoa H(2), Reaven G(2).
+
+
+
+OBJECTIVE: Salsalate treatment has been shown to improve glucose homeostasis, but
+the mechanism remains unclear. The aim of this study was to evaluate the effect
+of salsalate treatment on insulin action, secretion, and clearance rate in
+nondiabetic individuals with insulin resistance.
+RESEARCH DESIGN AND METHODS: This was a randomized (2:1), single-blind,
+placebo-controlled study of salsalate (3.5 g daily for 4 weeks) in nondiabetic
+individuals with insulin resistance. All individuals had measurement of glucose
+tolerance (75-g oral glucose tolerance test), steady-state plasma glucose (SSPG; 
+insulin suppression test), and insulin secretion and clearance rate
+(graded-glucose infusion test) before and after treatment.
+RESULTS: Forty-one individuals were randomized to salsalate (n = 27) and placebo 
+(n = 14). One individual from each group discontinued the study. Salsalate
+improved fasting (% mean change -7% [95% CI -10 to -14] vs. 1% [-3 to 5], P =
+Salsalate also lowered fasting triglyceride concentration (-25% [-34 to -15] vs. 
+-6% [-26 to 14], P = 0.04). Salsalate had no effect on SSPG concentration or
+insulin secretion rate but significantly decreased insulin clearance rate
+compared with placebo (-23% [-30 to -16] vs. 3% [-10 to 15], P < 0.001).
+Salsalate was well tolerated, but four individuals needed a dose reduction due to
+symptoms.
+CONCLUSIONS: Salsalate treatment in nondiabetic, insulin-resistant individuals
+improved fasting, but not postprandial, glucose and triglyceride concentration.
+These improvements were associated with a decrease in insulin clearance rate
+without change in insulin action or insulin secretion.
+
+
+
+
+
+Response to comment on Goldfine et al. Targeting inflammation using salsalate in 
+patients with type 2 diabetes: effects on flow-mediated dilation (TINSAL-FMD).
+Diabetes care 2013;36:4132-4139.
+
+Goldfine AB(1), Jablonski KA, Shoelson SE, Creager MA; TINSAL-FMD (Targeting
+Inflammation Using Salsalate in Type 2 Diabetes–Flow-Mediated Dilation) Ancillary
+Study Team.
+
+
+
+
+
+
+Targeting inflammation using salsalate in patients
+with type 2 diabetes: effects on flow-mediated dilation (TINSAL-FMD). Diabetes
+care 2013;36:4132-4139.
+
+
+
+
+
+The effect of salsalate therapy on endothelial function in a broad range of
+subjects.
+
+
+
+
+
+BACKGROUND: Inflammation is fundamental to the development of atherosclerosis. We
+examined the effect of anti-inflammatory doses of salicylate on
+endothelium-dependent vasodilation, a biomarker of cardiovascular risk, in a
+broad range of subjects.
+METHODS AND RESULTS: We performed a randomized, double-blind, placebo-controlled 
+crossover trial evaluating the effects of 4 weeks of high-dose salsalate
+(disalicylate) therapy on endothelium-dependent flow-mediated and
+endothelium-independent vasodilation. Fifty-eight subjects, including 17 with
+metabolic syndrome, 13 with atherosclerosis, and 28 healthy controls, were
+studied. Among all subjects, endothelium-dependent flow-mediated vasodilation
+decreased after salsalate compared with placebo therapy (P=0.01), whereas
+nitroglycerin-mediated, endothelium-independent vasodilation was unchanged
+(P=0.97). Endothelium-dependent flow-mediated vasodilation after salsalate
+therapy was impaired compared with placebo therapy in subjects with therapeutic
+salicylate levels (n=31, P<0.02) but not in subjects with subtherapeutic levels
+(P>0.2).
+CONCLUSIONS: Salsalate therapy, particularly when therapeutic salicylate levels
+are achieved, impairs endothelium-dependent vasodilation in a broad range of
+subjects. These data raise concern about the possible deleterious effects of
+anti-inflammatory doses of salsalate on cardiovascular risk.
+CLINICAL TRIAL REGISTRATION URL: www.clinicaltrials.gov. Unique Identifiers:
+NCT00760019 and NCT00762827.
+
+
+
+
+The impact of salsalate treatment on serum levels of advanced glycation end
+products in type 2 diabetes.
+
+
+
+OBJECTIVE Salsalate is a nonacetylated salicylate that lowers glucose levels in
+people with type 2 diabetes (T2D). Here we examined whether salsalate also
+lowered serum-protein-bound levels of early and advanced glycation end products
+(AGEs) that have been implicated in diabetic vascular complications. RESEARCH
+DESIGN AND METHODS Participants were from the Targeting Inflammation Using
+Salsalate for Type 2 Diabetes (TINSAL-T2D) study, which examined the impact of
+salsalate treatment on hemoglobin A1c (HbA1c) and a wide variety of other
+parameters. One hundred eighteen participants received salsalate, 3.5 g/day for
+fructoselysine [measured as furosine]) and AGE levels (glyoxal and methylglyoxal 
+hydroimidazolones [G-(1)H, MG-(1)H], carboxymethyllysine [CML],
+carboxyethyllysine [CEL], pentosidine) were measured in patient serum samples.
+RESULTS Forty-eight weeks of salsalate treatment lowered levels of HbA1c and
+serum furosine (P < 0.001) and CML compared with placebo. The AGEs CEL and G-(1)H
+and MG-(1)H levels were unchanged, whereas pentosidine levels increased more than
+twofold (P < 0.001). Among salsalate users, increases in adiponectin levels were 
+associated with lower HbA1c levels during follow-up (P < 0.001). Changes in renal
+and inflammation factor levels were not associated with changes in levels of
+early or late glycation factors. Pentosidine level changes were unrelated to
+changes in levels of renal function, inflammation, or cytokines. CONCLUSIONS
+Salsalate therapy was associated with a reduction in early but not late glycation
+end products. There was a paradoxical increase in serum pentosidine levels
+suggestive of an increase in oxidative stress or decreased clearance of
+pentosidine precursor.
+
+
+
+
+Targeting inflammation using salsalate in patients with type 2 diabetes: effects 
+on flow-mediated dilation (TINSAL-FMD).
+
+Goldfine AB(1), Buck JS, Desouza C, Fonseca V, Chen YD, Shoelson SE, Jablonski
+KA, Creager MA; TINSAL-FMD (Targeting Inflammation Using Salsalate in Type 2
+Diabetes–Flow-Mediated Dilation) Ancillary Study Team.
+
+Collaborators: Aroda V, Brook R, Creager MA, Desouza C, Fonseca V, Goldfine AB,
+Jablonski KA, Mather K, McNeal CJ, Shoelson SE, Umpierrez G.
+
+
+
+OBJECTIVE: To test whether inhibiting inflammation with salsalate improves
+endothelial function in patients with type 2 diabetes (T2D).
+RESEARCH DESIGN AND METHODS: We conducted an ancillary study to the National
+Institutes of Health-sponsored, multicenter, randomized, double-masked,
+placebo-controlled trial evaluating the safety and efficacy of salsalate in
+targeting inflammation to improve glycemia in patients with T2D. Flow-mediated,
+endothelium-dependent dilation (FMD) and endothelium-independent,
+nitroglycerin-mediated dilation (NMD) of the brachial artery were assessed at
+baseline and 3 and 6 months following randomization to either salsalate 3.5 g/day
+or placebo. The primary end point was change in FMD at 6 months.
+RESULTS: A total of 88 participants were enrolled in the study, and data after
+randomization were available for 75. Patients in the treatment and control groups
+had similar ages (56 years), BMI (33 kg/m(2)), sex (64% male), ethnicity, current
+treatment, and baseline HbA1c (7.7% [61 mmol/mol]). In patients treated with
+salsalate versus placebo, HbA1c was reduced by 0.46% (5.0 mmol/mol; P < 0.001),
+fasting glucose by 16.1 mg/dL (P < 0.001), and white blood cell count by 430
+cells/µL (P < 0.02). There was no difference in the mean change in either FMD
+(0.70% [95% CI -0.86 to 2.25%]; P = 0.38) or NMD (-0.59% [95% CI -2.70 to 1.51%];
+P = 0.57) between the groups treated with salsalate and placebo at 6 months.
+Total and LDL cholesterol were 11 and 16 mg/dL higher, respectively, and urinary 
+albumin was 2.0 µg/mg creatinine higher in the patients treated with salsalate
+compared with those treated with placebo (all P < 0.009).
+CONCLUSIONS: Salsalate does not change FMD in peripheral conduit arteries in
+patients with T2D despite lowering HbA1c. This finding suggests that salsalate
+does not have an effect on vascular inflammation, inflammation does not cause
+endothelial dysfunction in T2D, or confounding effects of salsalate mitigate
+favorable effects on endothelial function.
+
+
+
+
+Salsalate and adiponectin ameliorate hepatic steatosis by inhibition of the
+hepatokine fetuin-A.
+
+
+
+
+
+Fetuin-A was recently identified as a novel hepatokine which is associated with
+obesity, insulin resistance and non-alcoholic fatty liver disease. Salsalate, a
+prodrug of salicylate with an anti-inflammatory effect and lower side effect
+profile, significantly lowers glucose and triglyceride levels, and increased
+adiponectin concentrations in randomized clinical trials. In this study, we
+examined the effects and regulatory mechanisms of salsalate and full
+length-adiponectin (fAd) on fetuin-A expression, steatosis and lipid metabolism
+in palmitate-treated HepG2 cells. Incubation of hepatocytes with palmitate
+significantly increased fetuin-A and SREBP-1c expression which lead to steatosis 
+and knock-down of fetuin-A by siRNA restored these changes. Salsalate
+significantly down-regulated palmitate-induced fetuin-A mRNA expression and
+secretion in a dose- and time-dependent manner. Inhibition of palmitate-induced
+fetuin-A by salsalate was mediated by AMPK-mediated reduction of NFκB activity,
+which was blocked by AMPK siRNA or an inhibitor of AMPK. Salsalate attenuated the
+excessive steatosis by palmitate through SREBP-1c regulation in hepatocytes.
+Furthermore, fAd also showed suppression of palmitate-induced fetuin-A through
+the AMPK pathway and improvement of steatosis accompanied by restoration of
+SREBP-1c, PAPR-α and CD36. In preliminary in vivo experiments, salsalate
+treatment inhibited high fat diet (HFD)-induced steatosis as well as fetuin-A
+mRNA and protein expression in SD rats. In conclusion, salsalate and fAd improved
+palmitate-induced steatosis and impairment of lipid metabolism in hepatocytes via
+fetuin-A inhibition through the AMPK-NFκB pathway.
+
+
+
+Salsalate and Adiponectin Improve Palmitate-Induced Insulin Resistance via
+Inhibition of Selenoprotein P through the AMPK-FOXO1α Pathway.
+
+
+
+
+Selenoprotein P (SeP) was recently identified as a hepatokine that induces
+insulin resistance (IR) in rodents and humans. Recent clinical trials have shown 
+that salsalate, a prodrug of salicylate, significantly lowers blood glucose
+levels and increases adiponectin concentrations. We examined the effects of
+salsalate and full length-adiponectin (fAd) on the expression of SeP under
+hyperlipidemic conditions and explored their regulatory mechanism on SeP. In
+palmitate-treated HepG2 cells as well as high fat diet (HFD)-fed male Spraque
+Dawley (SD) rats and male db/db mice, SeP expression and its regulatory pathway, 
+including AMPK-FOXO1α, were evaluated after administration of salsalate and
+salicylate. Palmitate treatment significantly increased SeP expression and
+aggravated IR, while knock-down of SeP by siRNA restored these changes in HepG2
+cells. Palmitate-induced SeP expression was inhibited by both salsalate and
+salicylate, which was mediated by AMPK activation, and was blocked by AMPK siRNA 
+or an inhibitor of AMPK. Chromatin immunoprecipitation (ChIP) and electrophoretic
+mobility shift (EMSA) assay showed that salsalate suppressed SeP expression by
+AMPK-mediated phosphorylation of FOXO1α. Moreover, fAd also reduced
+palmitate-induced SeP expression through the activation of AMPK, which results in
+improved IR. Both salsalate and salicylate treatment significantly improved
+glucose intolerance and insulin sensitivity, accompanied by reduced SeP mRNA and 
+protein expression in HFD-fed rats and db/db mice, respectively. Taken together, 
+we found that salsalate and adiponectin ameliorated palmitate-induced IR in
+hepatocytes via SeP inhibition through the AMPK-FOXO1α pathway. The regulation of
+SeP might be a novel mechanism mediating the anti-diabetic effects of salsalate
+and adiponectin.
+
+
+
+
+
+
+
+
+
+Salicylate (salsalate) in patients with type 2 diabetes: a randomized trial.
+
+
+
+
+
+BACKGROUND: Short-duration studies show that salsalate improves glycemia in type 
+OBJECTIVE: To assess 1-year efficacy and safety of salsalate in T2DM.
+DESIGN: Placebo-controlled, parallel trial; computerized randomization and
+centralized allocation, with patients, providers, and researchers blinded to
+assignment. (ClinicalTrials.gov: NCT00799643).
+SETTING: 3 private practices and 18 academic centers in the United States.
+PATIENTS: Persons aged 18 to 75 years with fasting glucose levels of 12.5 mmol/L 
+or less (≤225 mg/dL) and hemoglobin A1c (HbA1c) levels of 7.0% to 9.5% who were
+treated for diabetes.
+INTERVENTION: 286 participants were randomly assigned (between January 2009 and
+July 2011) to 48 weeks of placebo (n = 140) or salsalate, 3.5 g/d (n = 146), in
+addition to current therapies, and 283 participants were analyzed (placebo, n =
+MEASUREMENTS: Change in hemoglobin A1c level (primary outcome) and safety and
+efficacy measures.
+RESULTS: The mean HbA1c level over 48 weeks was 0.37% lower in the salsalate
+group than in the placebo group (95% CI, -0.53% to -0.21%; P < 0.001). Glycemia
+improved despite more reductions in concomitant diabetes medications in salsalate
+recipients than in placebo recipients. Lower circulating leukocyte, neutrophil,
+and lymphocyte counts show the anti-inflammatory effects of salsalate.
+Adiponectin and hematocrit levels increased more and fasting glucose, uric acid, 
+and triglyceride levels decreased with salsalate, but weight and low-density
+lipoprotein cholesterol levels also increased. Urinary albumin levels increased
+but reversed on discontinuation; estimated glomerular filtration rates were
+unchanged.
+LIMITATION: Trial duration and number of patients studied were insufficient to
+determine long-term risk-benefit of salsalate in T2DM.
+CONCLUSION: Salsalate improves glycemia in patients with T2DM and decreases
+inflammatory mediators. Continued evaluation of mixed cardiorenal signals is
+warranted.
+
+
+
+
+Open-label salsalate for the treatment of pre-diabetes in people with
+schizophrenia.
+
+Keller WR, Fischer BA, McMahon RP, Meyer W, Buchanan RW.
+
+
+
+
+A randomised trial of salsalate for insulin resistance and cardiovascular risk
+factors in persons with abnormal glucose tolerance.
+
+
+
+AIMS/HYPOTHESIS: Chronic sub-acute inflammation contributes to the pathogenesis
+of type 2 diabetes mellitus and cardiovascular disease. High doses of salicylate 
+reduce inflammation, glucose and triacylglycerols, and may improve insulin
+sensitivity, suggesting therapeutic potential in impaired fasting glucose and/or 
+impaired glucose tolerance. This trial aimed to evaluate the effect of salsalate 
+vs placebo on insulin resistance and glycaemia in impaired fasting glucose and/or
+impaired glucose tolerance.
+METHODS: We conducted a 12 week, two-centre, randomised, placebo-controlled study
+to evaluate the effect of salsalate (up to 4 g/day) vs placebo on systemic
+glucose disposal. Secondary objectives included treatment effects on glycaemia,
+inflammation and cardiovascular risk factors. Seventy-eight participants with
+impaired fasting glucose and/or impaired glucose tolerance from two VA healthcare
+systems were enrolled. Randomisation assignment was provided by the coordinating 
+center directly to site pharmacists, and participants and research staff were
+blinded to treatment assignment.
+RESULTS: Seventy-one individuals were randomised to placebo (n = 36) or salsalate
+(n = 35). Glucose disposal did not change in either group (salsalate 1% [95% CI
+-39%, 56%]; placebo 6% [95% CI -20%, 61%], p = 0.3 for placebo vs salsalate).
+Fasting glucose was reduced by 6% during the study by salsalate (p = 0.006) but
+did not change with placebo. Declines in glucose were accompanied by declines in 
+fasting C-peptide with salsalate. Insulin clearance was reduced with salsalate.
+In the salsalate group, triacylglycerol levels were lower by 25% (p = 0.01) and
+adiponectin increased by 53% (p = 0.02) at the end of the study. Blood pressure, 
+endothelial function and other inflammation markers did not differ between
+groups. Adipose tissue nuclear factor κB (NF-κB) activity declined in the
+salsalate group compared with placebo (-16% vs 42%, p = 0.005), but was not
+correlated with metabolic improvements. The frequency of tinnitus was low but
+tended to be higher with salsalate therapy (n = 4 vs n = 2).
+CONCLUSIONS/INTERPRETATION: In summary, salsalate therapy was well tolerated,
+lowered fasting glucose, increased adiponectin and reduced adipose tissue NF-κB
+activity. These changes were not related to changes in peripheral insulin
+sensitivity, suggesting additional mechanisms for metabolic improvement.
+TRIAL REGISTRATION: ClinicalTrials.gov NCT00330733.
+FUNDING: Office of Research and Development, Medical Research Service, Department
+of Veterans Affairs and NIH K24 DK63214.
+
+
+
+
+Evaluating the efficacy of Salsalate on prediabetic and diabetic patients with
+fatty liver: A randomized clinical trial.
+
+
+
+
+
+OBJECTIVE: Nearly two-third of the patients with type 2 diabetes have degrees of 
+fatty liver; this may induce some side effects in them. This study aimed to find 
+effect of salsalate on treatment of steatohepatitis and correlation of fatty
+liver with metabolic syndrome in the setting of impaired glucose metabolism.
+METHODS: In a double-blind randomized trial within two distinct groups, i.e.,
+recently diagnosed diabetics and prediabetic cases allocated in two arms of the
+intervention to receive 3 g salsalate or placebo. All cases underwent glucose and
+lipid level studies and liver ultrasound study.
+FINDINGS: Out of 46 patients with diabetes, 34 (74%) had fatty liver in
+ultrasound; this ratio was 75% in 113 prediabetic cases. Relative frequency of
+fatty liver stages did not differ between diabetics and prediabetics. Within
+diabetics, mean aspartate aminotransferase (AST) level of fatty liver cases (23 ±
+transaminase levels following intervention did not significantly differ,
+comparing drug and placebo arms in two subgroups.
+CONCLUSION: According to the findings, if diabetes could be assumed as the
+logical consequence of prediabetic state, it seems that fatty liver did develop
+before this preliminary status. In this study, salsalate could not change
+biochemical markers of fatty liver significantly.
+
+
+
+
+Reduction of insulin resistance and plasma glucose level by salsalate treatment
+in persons with prediabetes.
+
+
+
+OBJECTIVE: To evaluate the effect of salsalate as an antiinflammatory agent on
+insulin resistance and glycemic control in persons with prediabetes.
+METHODS: In this double-blind, placebo-controlled clinical trial, 66 persons who 
+had prediabetes on the basis of the American Diabetes Association criteria were
+enrolled. They were randomly assigned to receive salsalate (3 g daily) or placebo
+for 12 weeks. Fasting plasma glucose (FPG) and insulin, glucose 2 hours after
+oral administration of 75 g of glucose, hemoglobin A1c, lipid profile,
+homeostasis model assessment of insulin resistance (HOMA-IR), and homeostasis
+model assessment of beta-cell function were determined before and after
+treatment.
+RESULTS: Salsalate treatment reduced the FPG level from 5.86 ± 0.07 mmol/L to
+changes). Homeostasis model assessment of beta-cell function increased in the
+salsalate-treatment group from 139.8 ± 11.0 to 189.4 ± 24.6 (P = .01). At the end
+of the study, FPG, HOMA-IR, and insulin levels were significantly different
+between salsalate and placebo groups (5.20 ± 0.11 mmol/L versus 5.53 ± 0.10
+mmol/L, 3.8 ± 0.3 versus 4.4 ± 0.9, and 16.1 ± 1.9 μIU/mL versus 18.2 ± 2 μIU/mL,
+respectively; P<.05 for all). There were no persistent complications after
+salsalate therapy.
+CONCLUSION: Treatment with salsalate can reduce insulin resistance and the FPG
+level in subjects with prediabetes. Determination of the long-term safety and
+efficacy of the use of salsalate necessitates further investigation.
+
+
+
+
+Pharmacokinetics of salsalate and salicylic acid in normal and diabetic rats.
+
+
+
+
+
+The pharmacokinetics (PK) of salsalate (SS) and salicylic acid (SA) was assessed 
+in normal Wistar and diabetic Goto-Kakizaki rats. Three PK studies were
+conducted: (1) PK of SA in normal rats after intravenous dosing of SA at 20, 40, 
+and diabetic rats. The disposition of SS and SA were evaluated simultaneously
+using a pharmacokinetic model comprising several transit absorption steps and
+linear and nonlinear dual elimination pathways for SA. The results indicated that
+the nonlinear elimination pathway of SA only accounted for a small fraction of
+the total clearance (< 12%) at therapeutic concentrations. A flat profile of SA
+was observed after oral dosing of SS, particularly at a high dose. The possible
+reasons for this flat profile were posed. During the SS-diet feeding, the
+diabetic rats achieved lower blood concentrations of SA than normal rats with a
+higher apparent clearance (CL/F), possibly due to incomplete (47%)
+bioavailability. Such CL/F decreased with age in both diabetic and normal rats.
+The effect of diabetes on SA pharmacokinetics may necessitate increased dosing in
+the future usage of SS in diabetes.
+
+
+
+Salsalate improves glycemic control in patients with newly diagnosed type 2
+diabetes.
+
+
+
+Chronic inflammation contributes to insulin resistance and type 2 diabetes
+mellitus (T2DM). We investigated whether treatment with salsalate, an
+anti-inflammatory medication, improves glycemia in a group of newly diagnosed
+drug-naïve patients with T2DM. The study was a randomized, double-blind,
+placebo-controlled trial. Diagnosis of T2DM was made within 2 months of
+enrollment, and participants had not received any anti-glycemic agent. Sixty
+adults were randomized to receive salsalate (3 g/day) or placebo for 12 weeks.
+Fasting plasma glucose and insulin, glucose 2 h after 75 g oral glucose, HbA1C,
+lipid profile, HOMA-IR, and HOMA-B were determined before and after treatment.
+Salsalate reduced fasting glucose from 6.3 ± 0.2 mmol/l to 5.4 ± 0.2 mmol/l (P < 
+insulin levels were increased in the salsalate group from 18.8 ± 1.6 to 21.6 ±
+from 6.2% ± 0.2 to 7.9% ± 1.1 mmol/mol, but decreased in the intervention group
+from 6.1% ± 0.5 to 5.6% ± 0.2 mmol/mol (P < 0.04 for between-group comparison).
+HOMA-IR did not change but HOMA-B increased ~1.7-fold (P = 0.06) in the salsalate
+group. The results show that salsalate is effective in improving glycemic control
+in newly diagnosed naïve patients with T2DM. The optimal duration of treatment
+with salsalate and sustainability of its effect requires further study
+(IRCT138709011465N1).
+
+
+
+
+Modeling diabetes disease progression and salsalate intervention in Goto-Kakizaki
+rats.
+
+
+
+Type 2 diabetes mellitus (T2DM) arises owing to insulin resistance and β-cell
+dysfunction. Chronic inflammation is widely identified as a cause of T2DM. The
+Goto-Kakizaki (GK) rat is a spontaneous rodent model for T2DM with chronic
+inflammation. The purpose of this study was to characterize diabetes progression 
+in GK rats and evaluate the potential role of the anti-inflammatory agent
+salsalate. The GK rats were divided into control groups (n = 6) and salsalate
+treatment groups (n = 6), which were fed a salsalate-containing diet from 5 to 21
+weeks of age. Blood glucose and salicylate concentrations were measured once a
+week. Glucose concentrations showed a biphasic increase in which the first phase 
+started at approximately 5 weeks, resulting in an increase by 15 to 25 mg/dl and 
+a second phase at 14 to 15 weeks with an upsurge of more than 100 mg/dl. A
+mechanism-based model was proposed to describe the natural diabetes progression
+and salsalate pharmacodynamics by using a population method in S-ADAPT. Two
+transduction cascades were applied to mimic the two T2DM components: insulin
+resistance and β-cell dysfunction. Salsalate suppressed both disease factors by a
+fraction of 0.622 on insulin resistance and 0.134 on β-cell dysfunction. The
+substantial alleviation of diabetes by salsalate supports the hypothesis that
+chronic inflammation is a pathogenic factor of diabetes in GK rats. In addition, 
+body weight and food intake were measured and further modeled by a
+mechanism-based growth model. Modeling results suggest that salsalate reduces
+weight gain by enhancing metabolic rate and energy expenditure in both GK and
+Wister-Kyoto rats.
+
+
+
+
+
+Full-spectrum antioxidant therapy featuring astaxanthin coupled with lipoprivic
+strategies and salsalate for management of non-alcoholic fatty liver disease.
+
+
+
+Owing to the worldwide epidemic of obesity, and the popularity of diets rich in
+sugar and saturated fat, nonalcoholic fatty liver disease (NAFLD) is increasingly
+common; it is usually associated with insulin resistance, and may be considered a
+component of the metabolic syndrome. The pathologies which can complicate hepatic
+steatosis--steatohepatitis, cirrhosis, and hepatic cancer--appear to result from 
+an interaction of hepatic lipid overload and hepatic oxidative stress. It is
+therefore proposed that comprehensive regimens which effectively target each of
+these precipitating factors should achieve the best therapeutic benefit in NAFLD.
+Appropriate weight loss, and a diet low in saturated fat, glycemic index, and
+added sugars, should decrease hepatic lipid load. Measures which enhance
+adipocyte insulin sensitivity--such as pioglitazone, astaxanthin, and
+spirulina--may also be helpful in this regard, as may agents that boost
+hepatocyte capacity for fatty acid oxidation, such as metformin, carnitine,
+hydroxycitrate, long-chain omega-3 fats, and glycine. Astaxanthin and spirulina
+appear to have considerable potential for controlling the oxidative stress
+associated with NAFLD - the former because it may help to prevent the
+mitochondrial damage that renders mitochondria a key source of superoxide in this
+syndrome, the latter because it is exceptionally rich in phycocyanobilin, a
+phytochemical inhibitor of NAPDH oxidase. Other antioxidants which show some
+promise in this syndrome include high-dose folate, lipoic acid, melatonin,
+N-acetylcysteine, vitamin E, and taurine. Finally, treatment with salsalate, an
+inhibitor of IkappaB kinase-beta, has potential for blunting the adverse impact
+of hepatic steatosis on oxidative stress and inflammation.
+
+
+
+
+
+
+Salsalate attenuates free fatty acid-induced microvascular and metabolic insulin 
+resistance in humans.
+
+
+
+OBJECTIVE: Insulin recruits muscle microvasculature, thereby increasing
+endothelial exchange surface area. Free fatty acids (FFAs) cause insulin
+resistance by activating inhibitor of κB kinase β. Elevating plasma FFAs impairs 
+insulin's microvascular and metabolic actions in vivo. Whether salsalate, an
+anti-inflammatory agent, prevents FFA-induced microvascular and/or metabolic
+insulin resistance in humans is unknown.
+RESEARCH DESIGN AND METHODS: Eleven healthy, young adults were studied three
+times in random order. After an overnight fast, on two occasions each subject
+received a 5-h systemic infusion of Intralipid ± salsalate pretreatment (50
+mg/kg/day for 4 days). On the third occasion, saline replaced Intralipid. A 1
+mU/kg/min euglycemic insulin clamp was superimposed over the last 2-h of each
+study. Skeletal and cardiac muscle microvascular blood volume (MBV),
+microvascular flow velocity (MFV), and microvascular blood flow (MBF) were
+determined before and after insulin infusion. Whole body glucose disposal rates
+were calculated from glucose infusion rates.
+RESULTS: Insulin significantly increased skeletal and cardiac muscle MBV and MBF 
+without affecting MFV. Lipid infusion abolished insulin-mediated microvascular
+recruitment in both skeletal and cardiac muscle and lowered insulin-stimulated
+whole body glucose disposal (P<0.001). Salsalate treatment rescued insulin's
+actions to recruit muscle microvasculature and improved insulin-stimulated whole 
+body glucose disposal in the presence of high plasma FFAs.
+CONCLUSIONS: High plasma concentrations of FFAs cause both microvascular and
+metabolic insulin resistance, which can be prevented or attenuated by salsalate
+treatment. Our data suggest that treatments aimed at inhibition of inflammatory
+response might help alleviate vascular insulin resistance and improve metabolic
+control in patients with diabetes.
+
+
+
+
+Stimulation of human whole-body energy expenditure by salsalate is fueled by
+higher lipid oxidation under fasting conditions and by higher oxidative glucose
+disposal under insulin-stimulated conditions.
+
+
+
+OBJECTIVE: Nonsteroidal antiinflammatory drugs appear to improve insulin
+sensitivity and are currently tested in clinical trials. Salsalate, however, may 
+blunt mitochondrial function, an unwarranted side effect for type 2 diabetics. We
+examined the effect of salsalate on ex vivo mitochondrial function and
+lipid-induced insulin resistance.
+DESIGN: In a crossover design, nine volunteers underwent a
+hyperinsulinemic-euglycemic clamp with simultaneous infusion of glycerol
+(control), Intralipid, or Intralipid preceded by 4 d of salsalate (4000 mg
+Disalsid). Oxidative glucose disposal and nonoxidative glucose disposal (NOGD),
+metabolic flexibility, energy expenditure (EE), and ex vivo muscle mitochondrial 
+function were measured.
+RESULTS: Lipid infusion reduced insulin-stimulated glucose disposal by
+approximately 40%, glucose oxidation (CHOox) by approximately 50%, and NOGD by
+approximately 35%. Lipid-induced whole-body insulin resistance and decreased NOGD
+were not ameliorated by salsalate. However, salsalate repressed lipid-induced
+reduction in CHOox and reduced insulin clearance, resulting in higher insulin
+levels under basal as well as under clamp conditions (∼25 and ∼39%,
+respectively). Intriguingly, EE was higher after administration of salsalate (∼18
+and ∼16% under basal and clamp conditions, respectively) and was fueled by
+increased fat oxidation in the basal state and increased CHOox upon insulin
+stimulation. Salsalate did not affect mitochondrial function and coupling.
+CONCLUSION: We conclude that salsalate failed to improve whole-body insulin
+sensitivity but increased basal fat oxidation and insulin-stimulated CHOox,
+indicating improved metabolic flexibility. The beneficial effects of salsalate on
+CHOox can be attributed to elevated insulin levels. Mitochondrial respirometry
+revealed no indications that the changes in substrate selection and EE could be
+attributed to changes in skeletal muscle mitochondrial capacity or mitochondrial 
+coupling.
+
+
+
+
+An overview of salsalate as a potential antidiabetic therapy.
+
+
+
+The incidence of type 2 diabetes is increasing at an alarming rate throughout the
+world. This is in large part due to the increase in obesity and the aging of the 
+population. Therefore, new medications to combat type 2 diabetes are needed.
+Salicylates have been used as analgesics and antiinflammatory agents for several 
+decades. Incidentally, in some studies it was noted that high-dose salicylate
+treatment reduced blood glucose concentrations. Recently, inflammation has been
+strongly associated with insulin resistance and diabetes. Some studies show that 
+salsalate, which is a nonacetylated form of salicylate, reduces blood glucose
+concentrations in patients with type 2 diabetes, as well as in insulin-resistant 
+patients without diabetes. Postulated mechanisms include the inhibition of
+nuclear factor NF-kappa-B. Discussed in this review are the efficacy, safety and 
+mechanisms of salsalate relevant to the treatment of type 2 diabetes.
+
+
+
+
+
+
+Effects of salsalate therapy on recovery from vascular injury in female Zucker
+fatty rats.
+
+
+
+OBJECTIVE: Salsalate is a dimeric form of salicylic acid that has been shown to
+have anti-inflammatory activity and to reduce glucose levels, insulin resistance,
+and cytokine expression. However, the effect of salsalate on vascular injury has 
+not been determined. The objective of this study is to investigate the effect of 
+salsalate on vascular injury and repair in a rat model of carotid artery balloon 
+catheter injury.
+RESEARCH DESIGN AND METHODS: Salsalate treatment was started in female Zucker
+fatty rats (insulin resistant) 1 week before carotid artery balloon catheter
+injury and continued for 21 days, at which time the animals were killed and
+studied.
+RESULTS: Treatment with salsalate significantly decreased the intima-to-media
+ratio and upregulated the expression of aortic endothelial nitric oxide synthase 
+(eNOS), phosphorylated eNOS (p-eNOS) (ser 1177), and manganese superoxide
+dismutase (MnSOD) and reduced serum interleukin (IL)-6 with concomitant
+downregulation of nuclear factor (NF) κB subunit p65 and vascular endothelial
+growth factor (VEGF) expression in the balloon-injured carotid artery of female
+Zucker fatty rats.
+CONCLUSIONS: The present study shows that salsalate treatment decreases vascular 
+damage caused by balloon catheter injury in female Zucker fatty rats. The
+beneficial effect of salsalate on vascular injury was associated with
+upregulation of eNOS, p-eNOS, and MnSOD, which reduce oxidative stress and have
+anti-inflammatory properties, as evidenced by reduction in serum IL-6 and the
+downregulation of VEGF and NFκB, which promote inflammation without changing
+glucose levels. These results suggest that salsalate may be useful in reducing
+vascular injury and restenosis following interventional revascularization
+procedures.
+
+
+
+
+Salsalate is poorly tolerated and fails to improve endothelial function in
+virologically suppressed HIV-infected adults.
+
+
+
+In this 13-week, open-label, randomized study of the anti-inflammatory salsalate 
+versus usual care, there were no significant improvements in flow-mediated
+dilation of the brachial artery, endothelial activation, inflammation or
+coagulation markers, homeostasis model assessment of insulin resistance or
+lipoproteins with salsalate or between groups in virologically suppressed,
+HIV-infected adults on antiretrovirals. Tinnitus and transaminitis occurred
+frequently in the salsalate group. Dose reduction due to toxicities encountered
+and low level of inflammation may explain these results.
+
+
+
+
+Delayed recrudescence to toxic salicylate concentrations after salsalate
+overdose.
+
+
+
+
+
+Salicylates are common exposures. We report an unusual case of salicylate
+ingestion, as salsalate, with resolution of symptoms and return of salicylate
+levels to non-toxic values, with a subsequent, unexpected recrudescence to toxic 
+levels requiring reinstitution of therapy. A 31-year-old man ingested unknown
+amounts of salsalate, hydroxyzine, and a benzodiazepine. He was intubated and
+treated with IV sodium bicarbonate and two doses of oral activated charcoal.
+Eight hours after presentation, his serum salicylate concentration peaked at 55
+mg/dL, and then decreased to a nadir of 5.6 mg/dL 38 h after presentation,
+coinciding with return of GI motility. Several hours later salicylate
+concentrations began to rise, peaking 67 h after presentation at 61.7 mg/dL. He
+was treated with sodium bicarbonate and charcoal, which resulted in decreased
+serum salicylate to therapeutic levels. Salicylate ingestions are known to
+exhibit unusual toxicokinetics and absorption in overdose; however, this is the
+first case we are aware of that shows a return to toxic concentrations after
+apparent resolution of toxicity. Recrudescence of salicylate concentrations to a 
+degree that would dictate reinstitution of therapy for overdose is unusual and
+may warrant prolonged monitoring of serum salicylate concentrations in salsalate 
+ingestions.
+
+
+
+
+The effects of salsalate on glycemic control in patients with type 2 diabetes: a 
+randomized trial.
+
+
+
+BACKGROUND: Salsalate, a nonacetylated prodrug of salicylate, has been shown to
+decrease blood glucose concentration in small studies.
+OBJECTIVE: To compare the efficacy and safety of salsalate at different doses in 
+patients with type 2 diabetes.
+DESIGN: Parallel randomized trial with computer-generated randomization and
+centralized allocation. Patients and investigators, including those assessing
+outcomes and performing analyses, were masked to group assignment.
+(ClinicalTrials.gov registration number: NCT00392678)
+SETTING: 3 private practices and 14 universities in the United States.
+PATIENTS: Persons aged 18 to 75 years with fasting plasma glucose concentrations 
+of 12.5 mmol/L or less (< or = 225 mg/dL) and hemoglobin A1c (HbA1c) levels of
+at least 8 weeks.
+INTERVENTION: After a 4-week, single-masked run-in period, patients were randomly
+assigned to receive placebo or salsalate in dosages of 3.0, 3.5, or 4.0 g/d for
+MEASUREMENTS: Change in HbA1c was the primary outcome. Adverse effects and
+changes in measures of coronary risk and renal function were secondary outcomes.
+RESULTS: Higher proportions of patients in the 3 salsalate treatment groups
+experienced decreases in HbA1c levels of 0.5% or more from baseline (P = 0.009). 
+Mean HbA1c changes were -0.36% (P = 0.02) at 3.0 g/d, -0.34% (P = 0.02) at 3.5
+g/d, and -0.49% (P = 0.001) at 4.0 g/d compared with placebo. Other markers of
+glycemic control also improved in the 3 salsalate groups, as did circulating
+triglyceride and adiponectin concentrations. Mild hypoglycemia was more common
+with salsalate; documented events occurred only in patients taking sulfonylureas.
+Urine albumin concentrations increased in all salsalate groups compared with
+placebo. The drug was otherwise well tolerated.
+LIMITATION: The number of patients studied and the trial duration were
+insufficient to warrant recommending the use of salsalate for type 2 diabetes at 
+this time.
+CONCLUSION: Salsalate lowers HbA1c levels and improves other markers of glycemic 
+control in patients with type 2 diabetes and may therefore provide a new avenue
+for treatment. Renal and cardiac safety of the drug require further evaluation.
+PRIMARY FUNDING SOURCE: National Institute of Diabetes and Digestive and Kidney
+Diseases, National Institutes of Health.
+
+
+
+
+Summaries for patients. The effects of salsalate on blood sugar control in people
+with type 2 diabetes.
+
+
+
+Salsalate may have broad utility in the prevention and treatment of vascular
+disorders and the metabolic syndrome.
+
+
+
+In the high proportion of vascular disorders associated with excessive oxidative 
+stress and production of pro-inflammatory cytokines, activation of NF-kappaB
+plays a key pathogenic role. Thus, there is considerable evidence that NF-kappaB 
+is a mediator of atherogenesis, plaque destabilization, ischemia-reperfusion
+damage, cardiac remodeling, atrial fibrillation, and aneurysm formation and
+rupture; some studies suggest that it may also play a role in the microvascular
+complications of diabetes. I kappaB kinase-beta (IKK beta) is the upstream kinase
+that appears to be primarily responsible for NF-kappaB activation in these
+disorders; moreover, chronic IKK beta activation plays a prominent role in
+induction of insulin resistance in the metabolic syndrome. Salicylate inhibits
+IKK beta in concentrations that are achievable with dose schedules traditionally 
+used in treating rheumatoid arthritis (3-4.5 g daily); indeed, this is likely to 
+be the mechanism responsible for salicylate's utility in this disorder.
+Salicylate, unlike aspirin, is only a very weak, reversible inhibitor of
+cyclooxygenase in clinical doses, and thus is not associated with the potentially
+dangerous side effects seen with NSAIDs; fully reversible ototoxicity, the
+dose-limiting side effect in salicylate therapy, can be avoided in most patients 
+by dosage adjustment. Hence, it is proposed that salicylate may have practical
+utility in the prevention or management of a wide range of vascular disorders as 
+well as of metabolic syndrome and diabetes; its efficacy in these regards would
+likely be complemented by effective antioxidant measures, which would lessen the 
+stimulus to NF-kappaB activation while providing benefits independent of
+NF-kappaB activity. Salsalate, consisting of two salicylate molecules united by
+an ester bond, is a venerable drug that may be the best tolerated delivery
+vehicle for salicylate. Appropriate rodent studies should pave the way for
+clinical trials with salsalate in patients at vascular risk.
+
+
+Use of salsalate to target inflammation in the treatment of insulin resistance
+and type 2 diabetes.
+
+
+
+OBJECTIVES: Chronic subacute inflammation is implicated in the pathogenesis of
+insulin resistance and type 2 diabetes. Salicylates were shown years ago to lower
+glucose and more recently to inhibit NF-kappaB activity. Salsalate, a prodrug
+form of salicylate, has seen extensive clinical use and has a favorable safety
+profile. We studied the efficacy of salsalate in reducing glycemia and insulin
+resistance and potential mechanisms of action to validate NF-kappaB as a
+potential pharmacologic target in diabetes.
+METHODS AND RESULTS: In open label studies, both high (4.5 g/d) and standard (3.0
+g/d) doses of salsalate reduced fasting and postchallenge glucose levels after 2 
+weeks of treatment. Salsalate increased glucose utilization during euglycemic
+hyperinsulinemic clamps, by approximately 50% and 15% at the high and standard
+doses, respectively, and insulin clearance was decreased. Dose-limiting tinnitus 
+occurred only at the higher dose. In a third, double-masked, placebo-controlled
+trial, 1 month of salsalate at maximum tolerable dose (no tinnitus) improved
+fasting and postchallenge glucose levels. Circulating free fatty acids were
+reduced and adiponectin increased in all treated subjects.
+CONCLUSIONS: These data demonstrate that salsalate improves in vivo glucose and
+lipid homeostasis, and support targeting of inflammation and NF-kappaB as a
+therapeutic approach in type 2 diabetes.
+
+
+
+
+
+The effect of salsalate on insulin action and glucose tolerance in obese
+non-diabetic patients: results of a randomised double-blind placebo-controlled
+study.
+
+
+
+AIM/HYPOTHESIS: Low-grade inflammation may contribute to obesity-related insulin 
+resistance and has been associated with increased risk of type 2 diabetes
+mellitus. The present study evaluated whether treatment with salsalate, a
+traditional anti-inflammatory medication, would improve insulin action in obese
+non-diabetic individuals.
+METHODS: The study was a randomised, double-blind, placebo-controlled, parallel
+trial conducted at the inpatient clinical research unit of the NIDKK (Phoenix,
+AZ, USA). Participants were 54 adults (18 to 45 years of age) with BMI >or= 30
+kg/m(2). The intervention was salsalate (3 g/day, n = 28) or identical placebo (n
+= 26) for 7 days. The allocation was kept concealed by giving the investigator
+only a number corresponding to a vial of placebo or salsalate sequentially
+randomised in blocks by sex. Main outcomes were changes in insulin action
+assessed as rate of glucose disposal (R (d)) by euglycaemic-hyperinsulinaemic
+clamp (insulin infusion rate 40 mU m(-2) min(-1)) and glucose tolerance by 75 g
+OGTT.
+RESULTS: The study was completed by 47 participants, of which 40 were analysed
+(salsalate n = 22, placebo n = 18). Salsalate treatment resulted in decreased
+fasting plasma glucose concentration (mean [SD]; 4.83 [0.28] vs 5.11 [0.33]
+mmol/l, p = 0.001) and glucose AUC during the OGTT (p = 0.01), and in increased R
+(d) (20 [8] vs 18 [6] micromol [kg estimated metabolic body size](-1) min(-1), p 
+= 0.002), while there was no significant change in these variables with placebo
+(p > 0.3 for all). The effect of salsalate on R (d) disappeared (p = 0.9) after
+normalising to increased insulin concentrations (701 [285] vs 535 [201] pmol/l, p
+< 0.0001) measured during the clamp. No side effects of salsalate were observed
+during the study.
+CONCLUSIONS/INTERPRETATION: The glucose-lowering potential of salicylates appears
+to be due to effects on insulin concentration rather than improved insulin
+action. Salicylate-based compounds may be useful for the treatment and prevention
+of type 2 diabetes.
+
+
+
+
+Fluorimetric determination of salsalate in urine, serum and pharmaceutical
+preparations.
+
+
+
+A method for the determination of salsalate at concentrations between 0.10 and
+Salsalate, lightly soluble in water, is totally extracted into chloroform. In
+this organic phase, the drug shows low fluorescence but when an alkaline medium
+is provided, salsalate undergoes a substantial increase of the fluorescent
+intensity. Thus, the determination is performed in a chloroformic medium, where
+pyrrolidine chloroformic solution is added to give the basic character. The
+fluorescence measurements to quantify salsalate are carried out in its
+fluorescent band centered at lambda(ex)=299 nm and lambda(em)=410 nm. The method 
+was successfully applied to the determination of salsalate in authentic
+pharmaceutical preparations, urine and serum. Samples of these latter two
+matrices, urine and serum, are extracted into chloroform, using in the aqueous
+phase a pH 4.8, provided by adding acetic acid/sodium acetate buffer solution.
+Owing to matrix interference, the method of standard additions was used to
+determine salsalate in the serum. The sensitivity and repeatability achieved with
+the proposed method are adequate for the determination of salsalate in these
+matrices.
+
+
+
+
+
+Serum concentration-dependent hepatotoxicity in individuals receiving oral
+salsalate.
+
+
+
+
+
+
+Improvement in HIV-related endothelial dysfunction using the anti-inflammatory
+agent salsalate: a pilot study.
+
+
+
+We hypothesized that heightened systemic inflammation contributes to the
+increased rate of cardiovascular events in HIV-infected patients not receiving
+combination antiretroviral therapy. We performed a pilot trial to assess the
+effects of the nuclear factor-kappaB inhibitor salsalate on flow-mediated
+dilation of the brachial artery, a measure of endothelial function. Flow-mediated
+dilation significantly improved after 8 weeks of salsalate. However,
+hepatotoxicity occurred frequently. Research using alternative agents is
+warranted to examine the role of inflammation in HIV-related cardiovascular
+disease.
+
+
+
+
+Salsalate improves glycemia and inflammatory parameters in obese young adults.
+
+
+
+OBJECTIVE: Sedentary lifestyle and a western diet promote subacute-chronic
+inflammation, obesity, and subsequently dysglycemia. The aim of the current study
+was to evaluate the efficacy of the anti-inflammatory drug salsalate to improve
+glycemia by reducing systemic inflammation in obese adults at risk for the
+development of type 2 diabetes.
+RESEARCH DESIGN AND METHODS: In a double-masked, placebo controlled trial, we
+evaluated 20 obese nondiabetic adults at baseline and after 1 month of salsalate 
+or placebo.
+RESULTS: Compared with placebo, salsalate reduced fasting glucose 13% (P <
+glycated albumin 17% (P < 0.0003). Although insulin levels were unchanged,
+fasting and oral glucose tolerance test C-peptide levels decreased in the
+salsalate-treated subjects compared with placebo (P < 0.03), consistent with
+improved insulin sensitivity and a known effect of salicylates to inhibit insulin
+clearance. Adiponectin increased 57% after salsalate compared with placebo (P <
+levels of C-reactive protein were reduced by 34% (P < 0.05).
+CONCLUSIONS: This proof-of-principle study demonstrates that salsalate reduces
+glycemia and may improve inflammatory cardiovascular risk indexes in overweight
+individuals. These data support the hypothesis that subacute-chronic inflammation
+contributes to the pathogenesis of obesity-related dysglycemia and that targeting
+inflammation may provide a therapeutic route for diabetes prevention.
+
+
+
+
+Blood pressure elevation in a patient treated with salsalate.
+
+
+
+OBJECTIVE: To report a case of increased blood pressure associated with the use
+of salsalate in an elderly patient with no prior history of hypertension.
+CASE SUMMARY: A 78-year-old white man with no prior history of hypertension
+initiated salsalate therapy for low-back pain. Over the 15 months prior to the
+initiation of salsalate, his blood pressure averaged 127 +/- 7 mm Hg systolic and
+experienced significant elevations in blood pressure, which led to a preliminary 
+diagnosis of hypertension. Blood pressure after initiation of salsalate averaged 
+or medication doses (with the exception of warfarin) occurred in the 18 months
+prior to or during salsalate therapy. His weight remained stable. A detailed
+review of his medical records and history revealed no other causes for these
+elevations in blood pressure. Salsalate therapy was discontinued and his blood
+pressure returned to normotensive levels (119 +/- 2 mm Hg systolic and 81 +/- 2
+mm Hg diastolic).
+DISCUSSION: Nonsteroidal antiinflammatory drug (NSAID)-induced elevations in
+blood pressure have been well documented in patients receiving antihypertensive
+medications. Due to its relative weak inhibition of cyclooxygenase and lack of
+published literature in hypertensive patients, salsalate is considered to have
+little or no effect on blood pressure. Our report documents a possible case of
+salsalate-induced hypertension in a previously normotensive elderly man.
+Observational studies suggest that NSAID use may increase the risk of developing 
+hypertension in older patients.
+CONCLUSIONS: Clinicians should be aware of the possible effects of NSAIDs on
+blood pressure. Blood pressure monitoring following the initiation of salsalate
+may be warranted, particularly in older patients.
+
+
+
+
+Lichenoid drug eruption to salsalate.
+
+
+
+Cutaneous lichenoid eruptions can arise as a result of exogenous compound
+exposures. Pharmaceutical drugs, industrial compounds, and inhaled particles have
+been implicated as causative agents. To date, there have been no recorded cases
+of lichenoid drug eruptions (LDEs) caused by clinical use of the nonsteroidal
+anti-inflammatory drug salsalate. We describe a patient who experienced a
+lichenoid eruption after the initiation of salsalate for relief of arthritic
+pain. This eruption emerged after 1 month of therapy with salsalate, persisted
+for as long as salsalate was administered, and cleared within 3 weeks of
+discontinuing the medication. LDEs can clinically and histologically resemble
+idiopathic or classic lichen planus. Integrating drug history, clinical
+morphology, clinical distribution, and histopathology can aid in the
+differentiation. As in our patient's case, curative treatment for LDE requires
+discontinuation of the drug.
+
+
+
+
+Hydrogen bonding in salicylsalicylic acid (salsalate) crystals.
+
+
+
+An X-ray crystallographic study of the drug salsalicylic acid (salsalate) has
+been performed. Crystal formation of the drug is influenced by both inter- and
+intra-molecular hydrogen bonding. In addition an OH group in salsalate can occupy
+alternate ortho positions resulting in two hydrogen bonding motifs within a
+single crystal.
+
+
+
+
+
+Salsalate and salicylate binding to and their displacement of thyroxine from
+thyroxine-binding globulin, transthyrin, and albumin.
+
+
+
+Salsalate and its metabolite salicylate are inhibitors of thyroid hormone binding
+to serum transport proteins and reduce serum total thyroxine (T4) and
+triiodothyronine (T3) in vivo. The present study is the first to examine and
+compare salsalate and salicylate binding to human thyroxine-binding globulin
+(TBG), transthyretin (TTR), albumin (ALB), and whole human serum, and
+displacement by salsalate and salicylate of T4 from isolated TBG, TTR, ALB.
+Salsalate and salicylate binding were studied by ultrafiltration at salsalate
+concentrations of 0.24-1.16 mM (62-300 microg/mL) and salicylate concentrations
+of 0.0375-2.25 mM (6.0-360 microg/mL). T4 displacement by salsalate and
+salicylate from TBG, TTR, and ALB was studied by equilibrium dialysis at
+salsalate concentrations of 0 to 1.52 mM (0-393 microg/mL) and salicylate
+concentrations of 0 to 60 mM (0-9600 microg/mL). In normal human serum, 95% of
+salsalate and 76% of salicylate were protein-bound. In the presence of isolated
+ALB, 89% of salsalate and 64% of salicylate were ALB-bound. Both salsalate and
+salicylate inhibited T4 binding to all 3 major T4 binding proteins. Both
+displaced proportionately more T4 from TBG compared with TTR and ALB. The
+principal site to which both salsalate and salicylate in serum is bound (ALB) is 
+different from the principal site from which they displace T4 (TBG). Salsalate
+potency in displacing T4 from TBG and ALB was approximately 100-fold greater than
+salicylate potency.
+
+
+
+
+Changes in thyroid function tests during short-term salsalate use.
+
+
+
+Although long-term administration of salsalate depresses blood levels of both
+total thyroxine (T4) and total triiodothyronine (T3) and at least transiently
+decreases serum thyrotropin (TSH), changes in thyroid function tests have not
+been fully characterized during its short-term use. It is also unclear if the
+observed changes are solely the result of decreased hormone binding to carrier
+proteins or if reduced hepatic 5'-monodeiodinase activity is important. Blood was
+sampled at baseline (day 0) and after 24 hours (day 1) and 72 hours (day 3) in
+eight subjects taking a therapeutic dose of salsalate 1,500 mg twice daily. Total
+T4 decreased from 90.1+/-7.7 nmol/L (mean+/-SD) on day 0 to 82.9+/-8.6 nmol/L on 
+day 1 (P=.1 v baseline) and 68.6+/-8.7 nmol/L on day 3 (P=.0001). Total T3
+decreased from 1.76+/-0.20 nmol/L to 1.61+/-0.16 nmol/L on day 1 (P<.05) and
+and remained unchanged after 3 days. Levels of reverse T3 (rT3) were reduced from
+index (FTI) declined in parallel with total T4, the free T4 level by direct
+equilibrium dialysis (FTD) was unchanged after 3 days. Serum TSH decreased from
+after 3 days (0.95+/-0.49 mU/L, P<.05). In conclusion, (1) therapeutic doses of
+salsalate significantly decrease serum concentrations of total T4, total T3, and 
+rT3 to about 75% of baseline levels after 3 days without altering the T4/T3
+ratio; (2) although the FTD does not change, serum TSH concentrations remain
+suppressed; and (3) the proportionate decrease in total thyroid hormone levels
+suggests that inhibition of hormone binding to serum proteins is more important
+in producing these changes than reduced hepatic 5'-monodeiodinase activity.
+
+
+
+
+
+Lingual lesions secondary to prolonged contact with salsalate tablets.
+
+
+
+
+
+
+Simultaneous determination of salicylamide and salsalate in serum and urine by
+first derivative variable-angle synchronous fluorescence spectrometry.
+
+
+
+The determination of salicylamide and salsalate in human serum and urine is
+performed using a simple, rapid, sensitive, and selective method. The broad-band 
+overlapping conventional spectra of both compounds are resolved by means of first
+derivative variable-angle synchronous fluorescence spectrometry. The method is
+based on the intrinsic fluorescence of both drugs in chloroformic solution. The
+measurements are performed in an alkaline medium, which is adjusted by adding
+applied for the simultaneous determination of salicylamide and salsalate, at
+concentrations between 0.100 and 1. 000 microg mL-1 for both components, by means
+of absolute values of a first derivative variable-angle synchronous scan at the
+emission/excitation wavelengths of 410/299 nm for salicylamide and 440/307 nm for
+salsalate. Serum and urine are extracted with chloroform, by adding acetate
+buffer solution to provide pH 4.8 in the aqueous phase. Finally, pyrrolidine
+chloroformic solution is added to organic phase, where both components are
+determined, without the need for a reextraction step to an aqueous phase.
+
+
+
+
+
+
+Salsalate administration--a potential pharmacological model of the sick euthyroid
+syndrome.
+
+
+
+
+
+This study examined salsalate ingestion as a model of the sequelae of acute
+inhibition of thyroid hormone binding to serum protein. One dose of salsalate
+(60-65 mg/kg) was administered to healthy volunteers. Serum salsalate
+concentrations peaked at 2 h (82 micrograms/mL), then declined at 8 h to 1.2
+micrograms/mL. Serum total T4 (TT4) and total T3 (TT3) concentrations declined
+for 4 h, then recovered by 96 h, while T4 binding protein concentrations remained
+unchanged. TT3 was reduced to a greater extent than TT4 between 2 h and 72 h, and
+serum total reverse(r)T3 (TrT3) was transiently increased at 8 h. TSH
+concentrations fell while TT4 and TT3 fell, then recovered while TT4, TT3, and
+free T3, but not free T4, were still reduced. Subsequently, TSH overshot basal
+levels and continued to rise after 96 h while TT4, TT3, free T4, free T3, and
+TrT3 were all at basal levels. We postulate that an acute release of T4 and T3
+from circulating transport proteins, induced by an inhibitor of binding, can
+result in large and rapid redistribution of T4 and T3 into tissue compartments
+associated with transiently reduced peripheral tissue 5'-monodeiodination and
+deranged TSH regulation.
+
+
+
+
+Salsalate, morphine, and postoperative ileus.
+
+
+
+BACKGROUND: Previously, we demonstrated that ketorolac, a nonsteroidal
+antiinflammatory drug (NSAID), prevented postoperative small bowel ileus in a
+rodent model. The aim of this study was to evaluate the effect of salsalate, an
+NSAID without antiplatelet effect, on postoperative ileus alone or in combination
+with morphine.
+METHODS: Forty-eight rats underwent placement of duodenal catheters and were then
+randomly assigned to one of eight groups (n = 6). Four groups had standardized
+laparotomy following drug administration, whereas 4 groups underwent the same
+treatment without laparotomy: control and morphine animals received 0.1 mL
+alcohol via the catheter, whereas salsalate and salsalate-plus-morphine animals
+received salsalate (15 mg/kg) dissolved in 0.1 mL alcohol. The animals also
+received 0.5 mg/kg morphine (morphine and salsalate plus morphine) or the same
+volume of saline (control and salsalate) subcutaneously. Transit was measured
+following the injection of a nonabsorbed marker via the duodenal catheter and is 
+defined as the geometric center (GC) of distribution. An additional 20 rats had
+serosal electrodes placed on the jejunum, and were assigned to one of four
+treatment groups (control, salsalate, morphine, and salsalate plus morphine; n = 
+migrating myoelectric complex (MMC) following laparotomy.
+RESULTS: Laparotomy and morphine independently reduced small bowel transit (P =
++/- 0.2 control versus 2.2 +/- 0.3 laparotomy versus 3.6 +/- 0.4 morphine), but
+morphine did not further worsen postoperative transit (GC 2.4 +/- 0.4; P = 0.42).
+Although salsalate did not alter baseline transit, pretreatment improved
+postoperative transit (P = 0.0002; GC 3.6 +/- 0.4). This effect was lost with the
+addition of morphine (GC 2.7 +/- 0.2; P = 0.21). The MMCs returned earlier after 
+laparotomy in salsalate-pretreated rats (63 +/- 18 minutes salsalate versus 160
++/- 12 minutes laparotomy; P < 0.01, one-way ANOVA). However, this effect was
+also lost in animals receiving morphine (106 +/- 16 min; P > 0.05).
+CONCLUSION: Salsalate improves postoperative small bowel motility in a rodent
+model; however, this effect is masked by morphine.
+
+
+
+
+Assessment of salsalate, a nonacetylated salicylate, in the treatment of patients
+with arthritis.
+
+
+
+This study evaluated physicians' use of the occurrence of tinnitus as a tool to
+establish the optimal dosage of salsalate, a nonacetylated salicylate, in
+patients with arthritis treated in routine clinical practice. The use of printed 
+educational materials to improve compliance was also studied prospectively. A
+total of 782 patients were enrolled in this 3-week study by 95 general
+practitioners in an office setting. Of the 771 assessable patients, 90.0% had
+osteoarthritis, 9.7% had rheumatoid arthritis, and 0.3% had both types of
+arthritis. Most patients experienced improvement of symptoms after 3 weeks of
+treatment. There were no differences in the rates of improvement at the first and
+third weeks of treatment between patients with osteoarthritis and patients with
+rheumatoid arthritis. In addition, duration of arthritis had no effect on rates
+of improvement. Rates of patient satisfaction tended to increase over the study
+period. Rates of patient satisfaction did not differ significantly at the first
+and third weeks between patients who did not receive printed educational
+materials and whose who did not. Treatment was discontinued in 234 patients
+(30.4%) because of side effects. The most frequent reasons for discontinuation
+were gastrointestinal symptoms (n = 102; 13.2%) and tinnitus (n = 52; 6.7%). The 
+clinical effectiveness and safety of salsalate were confirmed in patients with
+arthritis in routine clinical practice settings.
+
+
+
+
+
+Salsalate, a nonacetylated salicylate, is as efficacious as diclofenac in
+patients with rheumatoid arthritis. Salsalate-Diclofenac Study Group.
+
+
+
+OBJECTIVE: To investigate the efficacy of salsalate, a nonacetylated salicylate, 
+in the treatment of patients with rheumatoid arthritis (RA).
+METHODS: Three hundred and one patients meeting the ACR criteria for RA were
+drawn from 16 centers. After withdrawal of nonsteroidal antiinflammatory drugs
+(NSAID) and subsequent flare, patients were randomized to receive either
+salsalate or diclofenac for 8 weeks, according to a double blind, double dummy
+protocol. Initial doses of salsalate 3.0 g/day and diclofenac 75 mg/day were
+titrated for the first 5 weeks. The primary outcome measure was a multivariate
+analysis at 8 weeks of tender joint count, pain, visual analog scale score, and
+physician's global assessment.
+RESULTS: One hundred and ninety patients completed the study. The mean stabilized
+dose of salsalate was 3.55 g/day, and that of diclofenac 112 mg/day.
+Discontinuations were due to lack of efficacy (17 salsalate vs 15 diclofenac);
+adverse events [19 salsalate (mainly tinnitus and hearing loss; p = 0.0001 and p 
+= 0.04, respectively) vs 9 diclofenac]; laboratory abnormalities (3 salsalate vs 
+illness, and personal factors (24 salsalate vs 23 diclofenac). Both treatments
+produced significant improvement from flare (p < 0.0001). Post hoc power analysis
+showed that the study had sufficient power (0.60 to 0.90) to detect clinically
+important differences between the 2 drugs in the primary outcome measures;
+however, no statistically significant (p = 0.29) or clinically important
+treatment differences were recorded. Other than a difference in erythrocyte
+sedimentation rate that favored salsalate, there were no significant differences 
+in secondary outcome measures between the 2 groups. All outcomes showed a
+tendency for more improvement with salsalate.
+CONCLUSION: Salsalate is as efficacious as diclofenac. Salsalate may be
+considered an alternative to other NSAID in the first line treatment of patients 
+with RA.
+
+
+
+
+
+Salsalate intoxication and ramifications of utilizing nonspecific analytical
+methods in estimating quantitative blood concentrations.
+
+
+
+In a case involving poisoning with salsalate, a salicylate analogue, the initial 
+blood concentration of the parent drug was underestimated because of the low
+cross-reactivity of the immunoassay used for the analysis. This resulted in
+unnecessary additional clinical and laboratory evaluations to find the cause of
+metabolic acidosis exhibited by the patient. Additional findings led to the
+conclusion that parent salsalate contributed to patient toxicity. For testing
+purposes, all salicylate compounds should not necessarily be classified into one 
+salicylic acid category, and there must be detailed communication between the
+caregiver and the laboratory regarding the specific drug history.
+
+
+
+
+
+Salsalate-induced pancytopenia in a patient with systemic lupus erythematosus.
+
+
+
+After a patient with a history of systemic lupus erythematosus in remission was
+given salsalate, all of her hematologic elements, especially leukocytes,
+profoundly decreased within hours, although the patient was receiving steroids.
+She had been challenged with salsalate at an earlier date, with a similar but
+less impressive drop in blood counts. Granulocytotoxic antibodies persisted
+during this episode in contrast to declining lymphocytotoxic and anti-native DNA 
+antibodies that accompanied a remission of systemic lupus. This is the first case
+of this kind occurring with salsalate therapy and may have represented preformed 
+antibodies induced by salsalate.
+
+
+
+
+
+Case report: abnormal thyroid function tests in a patient and two normal
+volunteers treated with salsalate.
+
+
+
+There are only three prior reports of abnormal thyroid function tests in patients
+who have received salsalate, the salicylate ester of salicylic acid. The authors 
+report an elderly clinically euthyroid man who had thyroid function tests
+suggestive of central hypothyroidism while taking salsalate but whose thyroid
+tests returned to normal after the drug was discontinued. They also studied
+thyroid function tests, including free thyroxine (FT4) and reverse (T3), in two
+normal volunteers who took salsalate 750 mg twice daily for 1 week. In the normal
+subjects, total T4 and FT4 began to fall within 24 hours after the first dose of 
+salsalate, and remained suppressed for at least 24 hours after the drug was
+discontinued. This rapidity of effect by salsalate is previously undescribed.
+There was also a fall in FT4, probably due to the use of diluted serum in the
+equilibrium dialysis FT4 assay. Because FT4 measurement using diluted serum or
+equilibrium dialysis may cause falsely low FT4 measurements, the authors believe 
+ultrafiltration may be the only reliable method of measuring FT4 in these
+patients.
+
+
+
+
+
+Synthesis and some properties of two salsalate derivatives.
+
+
+
+The synthesis of esters of 2-hydroxy benzoic acid-2-carboxyphenyl ester
+(salsalate) with guaiacol for the treatment of inflammatory bronchopneumopathies 
+is reported. The antiinflammatory, analgesic and antipyretic activities of these 
+derivatives were evaluated, together with their antioxidant, mucolytic and
+broncho-bacteriostatic properties in comparison to acetylsalicylic acid.
+
+
+
+
+
+[Salsalate: is it more tolerated than other non-steroidal anti-inflammatory
+agents?].
+
+
+
+
+
+
+
+Effect of food on salsalate absorption.
+
+
+
+To assess the effect of food on salsalate absorption, single 1500-mg oral doses
+of salsalate were administered to 17 men under fasted and fed conditions
+according to a randomized open-label crossover design. A 7-day washout separated 
+treatment periods. Blood samples were drawn throughout the 48-h period following 
+dose administration and the resulting plasma samples assayed by high-performance 
+liquid chromatography (HPLC) for unchanged drug, salsalate, and the major
+metabolite, salicylic acid. When results for the fasted and fed treatments were
+compared, no significant differences were observed in the pharmacokinetic
+parameters for the major metabolite salicylic acid or in the extent of absorption
+of unchanged drug; however, the rate of salsalate absorption was affected.
+Although the time-to-peak for salsalate was significantly delayed by
+approximately 1 h in the presence of food, the peak level was not significantly
+affected. The lack of difference between the two treatments for the therapeutic
+moiety, salicylic acid, indicates a lack of a significant food effect on single
+doses of salsalate.
+
+
+
+
+
+Abnormal thyroid function test results in patients taking salsalate.
+
+
+
+OBJECTIVE: To evaluate how the nonsteroidal anti-inflammatory agent salsalate
+affects the results of routine thyroid function tests.
+DESIGN: In a cohort of patients taking salsalate for various rheumatic
+conditions, thyroid function tests were performed with patients on and off the
+drug.
+SETTING: Primary care of ambulatory patients in a university medical center.
+PATIENTS: A convenience sample of 14 euthyroid subjects, none of whom was taking 
+thyroid hormone or other medication recognized to alter thyroid function.
+INTERVENTION: Treatment with therapeutic doses of salsalate for a mean period of 
+MAIN OUTCOME MEASURES: Serum levels of thyroxine (T4), free T4, thyroid hormone
+binding ratio, free T4 index (the product of T4 and the thyroid hormone binding
+ratio), triiodothyronine, and thyrotropin.
+RESULTS: Serum T4 dropped from a mean baseline level of 96.7 nmol/L off salsalate
+to 53.4 nmol/L on it (P less than .001), and the free T4 index showed a parallel 
+decline from 85.9 to 50.4 (P less than .001), with both values falling into the
+hypothyroid range. Similarly, free T4 levels and total triiodothyronine
+concentrations were low in several patients treated with salsalate. Serum
+thyrotropin levels declined transiently, falling from a mean of 3.2 to 1.7 mU/L
+(P less than .02) in patients treated for less than 3 weeks. Patients treated for
+longer periods had levels comparable to baseline. Despite these changes in the
+thyroid function test results, all subjects remained clinically euthyroid.
+CONCLUSION: Salsalate commonly produces abnormalities in routine thyroid function
+test results similar to those found in central hypothyroidism.
+
+
+
+
+
+Hemostatic effects of salsalate in normal subjects and patients with hemophilia
+A.
+
+
+
+Salsalate in a non-acetylated salicylate with activity as an antirheumatic agent.
+The hemostatic effects of this agent were studied in twelve healthy subjects and 
+nine patients with hemophilia A. Healthy subjects showed no change in bleeding
+time, platelet aggregation response to adenosine diphosphate (ADP) or collagen,
+or adenosine triphosphate (ATP) release in response to arachidonic acid as
+measured in an impedance whole blood lumi-aggregometer. The patients with
+hemophilia A showed no bleeding time prolongation nor an effect on ADP or
+collagen induced platelet aggregation in platelet rich plasma. It is concluded
+that this agent may be useful in the treatment of arthritis in patients with
+hereditary coagulation disorders.
+
+
+
+
+
+Comparison of salsalate and aspirin on mucosal injury and gastroduodenal mucosal 
+prostaglandins.
+
+
+
+The effects of a 7.5-day course of orally administered salsalate (3.0 g/day),
+aspirin (3.9 g/day), or placebo on gastroduodenal mucosal injury, mucosal
+prostaglandin content, and plasma prostaglandin concentrations in healthy,
+asymptomatic human volunteers were examined. Mean serum salicylate concentrations
+after these doses of salsalate and aspirin were nearly identical (approximately
+after the final dose of medication, there was minimal mucosal injury in
+placebo-treated or salsalate-treated subjects and considerable injury in the
+stomach and duodenum of aspirin-treated subjects (P less than 0.001, aspirin vs. 
+salsalate or placebo). In both the stomach and duodenum, aspirin lowered mucosal 
+prostaglandin F2a and E2 content by greater than 90% (P less than 0.001), whereas
+salsalate produced no significant change. Aspirin also lowered plasma
+prostaglandin F2a concentrations by 58% +/- 6%, whereas salsalate lowered them by
+only 11% +/- 9% (P less than 0.001). Thus, the nonacetylated salicylate,
+salsalate, produced much less gastroduodenal mucosal damage than aspirin at
+equivalent serum salicylate concentrations, possibly because salsalate did not
+inhibit mucosal prostaglandin synthesis.
+
+
+
+
+
+Salsalate cross-sensitivity in aspirin-sensitive patients with asthma.
+
+
+
+Ten aspirin (ASA)-sensitive patients with asthma underwent double-blind,
+placebo-controlled oral challenges with salsalate followed by ASA-sensitive
+confirmatory challenges. All 10 patients sustained asthmatic reactions to ASA,
+but only two developed respiratory reactions to 2 gm of salsalate. In these two
+patients, repeat confirmatory challenges with 2 gm of salsalate reproduced the
+same asthmatic reactions. Both patients were desensitized to ASA, and
+cross-desensitization with 2 gm of salsalate was then achieved. We conclude that 
+salsalate, a weak inhibitor of cyclooxygenase in vitro, is less likely than ASA
+to induce asthma in known ASA-sensitive patients with asthma but may occasionally
+cross-react in these patients. Such reactions were mild and easily treated with
+beta 2-agonists.
+
+
+
+
+
+Gastroduodenal mucosal damage with salsalate versus aspirin: results of
+experimental models and endoscopic studies in humans.
+
+
+
+Animal models have identified multiple mechanisms of aspirin toxicity. Aspirin
+inhibits cyclooxygenase in the gastroduodenal mucosa leading to a decrease in
+endogenous prostaglandins. Prostaglandin mediated mucus and bicarbonate
+secretion, epithelial hydrophobicity, blood flow, and cellular proliferation are 
+all decreased. Salicylates may cause direct cellular toxicity via inhibition of
+energy metabolism and membrane transport properties. Salicylate preparations have
+been designed to decrease gastroduodenal absorption. Endoscopic studies in humans
+have confirmed that buffering of aspirin does not ameliorate damage, but enteric 
+coating does. Salicylsalicylic acid (salsalate) is an effective antirheumatic
+drug that bypasses gastric absorption and also avoids cyclooxygenase inhibition. 
+In a randomized, single-blind, endoscopic comparison of salsalate versus
+enteric-coated aspirin, significantly less gastroduodenal damage was observed in 
+volunteers after salsalate administration compared to enteric-coated aspirin. An 
+endoscopic study in rheumatoid arthritics also confirmed the ability of salsalate
+to spare gastroduodenal mucosa when compared to naproxen administration.
+Salsalate may cause less gastroduodenal damage than enteric-coated aspirin based 
+on the results of animal models and endoscopic studies in humans.
+
+
+
+
+
+Reduced risk of NSAID gastropathy (GI mucosal toxicity) with nonacetylated
+salicylate (salsalate): an endoscopic study.
+
+
+
+This randomized, investigator-blinded, parallel group endoscopic study evaluated 
+the effects of salsalate and naproxen on the gastroduodenal mucosa over a 3-month
+period in patients with RA. Using therapeutic doses of the drugs, 8 of 21
+patients (38%) in the naproxen group had endoscopically shown active ulcers
+(seven patients) or diffuse erosions (one patient), whereas none of the 18
+patients treated with salsalate (0%) had such lesions (P = .003). Five of the
+eight naproxen-treated patients with evidence of GI damage were asymptomatic at
+the time of endoscopic verification of their lesions. The most significant
+disadvantage of salsalate was its higher incidence of otologic problems
+accounting for six of the nine discontinuations with salsalate. However, the
+findings of this study suggest that patients receiving salsalate are at lower
+risk for developing significant gastropathy than those treated with naproxen. The
+relative benefit-to-risk ratio of salsalate indicates that this drug should be
+considered as a significant alternative NSAID therapy.
+
+
+
+
+
+An endoscopic comparison of the gastroduodenal injury seen with salsalate and
+naproxen.
+
+
+
+Forty endoscopically normal healthy subjects were randomized to receive either
+BID salsalate (3500 mg/day) or BID naproxen (750 mg/day) for 14 days followed by 
+repeat endoscopic examination. Gastroduodenal lesions were found in 55% (11/20)
+of the subjects taking naproxen, and 10% (2/20) of those taking salsalate (p =
+the subjects taking salsalate were noted to have severe gastric injury (p =
+gastrointestinal system adverse experiences. Overall, 95% (19/20) of subjects
+taking salsalate reported at least 1 adverse experience compared with 60% (12/20)
+of those taking naproxen (p = 0.02). This was due primarily to the higher number 
+of subjects taking salsalate reporting reversible tinnitus or hearing loss. There
+was no significant treatment difference in adverse experiences reported for any
+other organ system. The results of our study support previous observations in
+patients with rheumatoid arthritis that salsalate produces less gastroduodenal
+mucosal toxicity than the widely used antiinflammatory agent, naproxen.
+
+
+
+
+
+Salsalate alters thyroid function test results.
+
+
+
+
+
+
+
+Metal complexes of antiinflammatory drugs. Part VII: Salsalate complex of
+copper(II).
+
+
+
+The preparation and properties of the Cu(II) complex Cu(SAS)2.H2O are reported
+for the antiinflammatory drug Salsalate (SAS). The diffuse reflectance spectra
+and magnetic moments are consistent with a dinuclear structure as found for
+[Cu(aspirinate)2(H2O)]2. The Cu(II) complex exhibits an increased superoxide
+dismutase activity compared with the parent drug molecule in the nitroblue
+tetrazolium assay.
+
+
+
+
+
+Salsalate in the treatment of rheumatoid arthritis: a double-blind clinical and
+gastroscopic trial versus piroxicam. II. Endoscopic evaluation.
+
+
+
+A double-blind, double-dummy controlled study to compare the clinical efficacy
+and gastric tolerability of salsalate and piroxicam in the treatment of
+rheumatoid arthritis was performed. A total of 23 patients were treated with 1.5 
+g salsalate twice daily and 20 with 20 mg piroxicam (after the evening meal) for 
+treatment; only patients who presented a normal baseline gastroscopy were
+admitted to the trial. At the end of the planned treatment period, a
+statistically significant improvement of all clinical variables was observed in
+both treatment groups, the difference between the two drugs not being
+statistically significant. Five of 20 (25%) piroxicam treated patients and only
+No relationship was found between dyspeptic symptoms and endoscopic lesions. The 
+results show that salsalate and piroxicam have equal efficacy in relieving
+arthritic symptoms, but salsalate causes fewer gastric lesions.
+
+
+
+
+Salsalate in the treatment of rheumatoid arthritis: a double-blind clinical and
+gastroscopic trial versus piroxicam. I. Clinical trial.
+
+
+
+A double-blind, double-dummy controlled study to compare the clinical efficacy
+and gastric tolerability of salsalate and piroxicam in the treatment of
+rheumatoid arthritis was performed. Twenty-three patients were treated with 1.5 g
+salsalate twice daily and 20 with 20 mg piroxicam (taken after the evening meal) 
+for a period of 4 weeks. Patients were submitted to gastroscopy at the start and 
+end of treatment; only patients who presented a normal baseline gastroscopy were 
+admitted to the trial. At the end of the planned treatment period, a
+statistically significant improvement of all clinical variables was observed in
+both treatment groups, the difference between the two drugs not being
+statistically significant. Seven (37%) patients treated with salsalate complained
+of tinnitus. The results show that salsalate and piroxicam have equal efficacy in
+relieving the symptoms of arthritis.
+
+
+
+
+Does the acetyl group of aspirin contribute to the antiinflammatory efficacy of
+salicylic acid in the treatment of rheumatoid arthritis? The Multicenter
+Salsalate/Aspirin Comparison Study Group.
+
+
+
+In a multicenter, double blind, parallel group study, 233 patients with classical
+or definite rheumatoid arthritis (RA) were randomized to 12 weeks of either
+salsalate (salicylsalicylic acid, nonacetylated salicylate) or aspirin following 
+disease flare. One hundred-fifty patients completed, 83 taking salsalate and 67
+taking aspirin. Patients received initial doses of 3 g/day of salsalate or 3.6
+g/day of aspirin. Doses were adjusted during the first 5 weeks for efficacy and
+tolerance. Both treatments were equally effective as measured by all the usual
+variables, but there was a higher incidence of severe gastrointestinal problems
+among patients taking aspirin. Thus, this study demonstrated that the acetyl
+group of aspirin does not enhance the antiinflammatory efficacy of salicylic acid
+in RA.
+
+
+
+
+
+Salicylsalicylic acid causes less gastroduodenal mucosal damage than
+enteric-coated aspirin. An endoscopic comparison.
+
+
+
+The gastroduodenal mucosal damage caused by aspirin and nonsteroidal
+antiinflammatory drugs is a common clinical problem. We compared two medications 
+designed to diminish mucosal damage: enteric-coated aspirin and salicylsalicylic 
+acid (salsalate). Ten healthy volunteers were randomized to receive either 1.5 g 
+salsalate twice a day or 650 mg enteric-coated aspirin four times a day for six
+days and were then crossed over to the other drug after a one-week
+medication-free period. Endoscopic inspection of gastroduodenal mucosa was
+performed at entry and again after six days of drug therapy for each medicine.
+Mean serum salicylate concentrations taken before the morning drug dose were 11.2
+mg/dl for enteric-coated aspirin and 18.1 mg/dl for salsalate. Only one of 10
+subjects receiving salsalate developed mild (grade 1) mucosal damage while six of
+causes less gastroduodenal mucosal damage than enteric-coated aspirin.
+
+
+
+
+
+Salsalate exacerbation of chronic renal insufficiency. Relation to inhibition of 
+prostaglandin synthesis.
+
+
+
+Nonacetylated salicylates have not been reported to cause the hemodynamically
+mediated acute renal failure associated with nonsteroidal anti-inflammatory drug 
+therapy. A 73-year-old woman with a creatinine clearance of 0.33 mL/s (20
+mL/min), hypertension, and arteriosclerotic cardiovascular disease developed
+reversible renal insufficiency when her dose of salsalate was increased to 4.5
+g/d (serum salicylate concentration, 2.22 mmol/L [30.7 mg/dL]). Under close
+observation the patient was re-treated with lower doses of salsalate while renal 
+function and the urinary excretions of prostaglandins were monitored. The
+excretion of prostaglandin E2 decreased abruptly while the excretion of
+was increased. Renal function appeared to decline in parallel with the decrease
+in 6-keto-prostaglandin F1 alpha and recovered rapidly after discontinuation of
+salsalate therapy. Nonacetylated salicylates can cause a hemodynamically mediated
+acute renal failure in patients at risk for this nephropathy.
+
+
+
+
+
+Salsalate and minimal-change nephrotic syndrome.
+
+
+
+
+
+
+
+[Kinetic study of the hydrolysis of salicylsalicylic acid in the presence of
+stabilizers].
+
+
+
+
+
+
+
+Duodenal ulcers associated with salsalate therapy.
+
+
+
+
+
+
+
+Salsalate kinetics in patients with chronic renal failure undergoing
+hemodialysis.
+
+
+
+A 1500 mg dose of salsalate (SSA) was given to five patients undergoing chronic
+hemodialysis on an interdialytic day and again before dialysis. Compared with
+control subjects, patients undergoing dialysis had a lower peak plasma SSA level 
+(17 +/- 3 vs. 45 +/- 2 micrograms/ml; P less than 0.01) that occurred slightly
+later. In contrast, plasma salicylic acid (SA), the active SSA metabolite, had a 
+similar but later peak level that remained substantially higher. Therefore, the
+AUC for SA was increased by 50% and the SA t1/2 was prolonged in the patients
+receiving dialysis (8.1 +/- 0.7 vs 3.8 +/- 0.2 hours; P less than 0.01). During a
+single treatment, dialysis clearance reduced plasma SA levels, removed 18% of
+total body SA, and returned the SA t1/2 to nearly normal. Because the elimination
+of SA is impaired in patients undergoing dialysis, the interdialytic SSA dosage
+should be reduced. Hemodialysis improves SA kinetics and may be followed by a
+normal SSA replacement dose. However, periodic monitoring of plasma SA levels is 
+recommended when SSA dosing is begun in patients receiving dialysis.
+
+
+
+
+
+Hydrolysis of acetylsalicylsalicylic acid and salicylsalicylic acid in aqueous
+solution.
+
+
+
+Effects of salsalate (nonacetylated salicylate) and aspirin on serum
+prostaglandins in humans.
+
+
+Prostaglandin E2 (PGE2), thromboxane B2 (TXB2), and salicylic acid were measured 
+in blood samples from 10 healthy men after administration of antiinflammatory
+doses of aspirin (3.9 g/day) or salsalate (3.0 g/day). Each medication was given 
+for 3 days, followed by an observation period of 13 days. Plasma salicylate
+concentrations were slightly, but generally insignificantly, higher during
+aspirin dosing, although both drugs produced salicylic acid levels in the
+antiinflammatory range. Serum levels of PGE2 and TXB2, which reflected synthesis 
+of cyclo-oxygenase products by platelets, were minimally affected by salsalate
+but profoundly suppressed by aspirin. When medication was discontinued, the
+effects of salsalate on serum PGE2 and TXB2 were readily reversible within 36 h, 
+whereas the recovery from aspirin was still incomplete after 13 days of
+observation. These results indicate that the two orally administered salicylates 
+have differential effects on prostaglandin synthesis in platelets and may also
+differ in their therapeutic and adverse effects.
+
+
+
+
+
+Metabolism of salsalate in normal subjects.
+
+
+
+The metabolism of salsalate (I) was characterized in two normal volunteers. The
+drug was almost completely absorbed and was excreted primarily in the urine; only
+approximately 1% of the total dose was found in the stools. Although I is a
+salicylate derivative, which on hydrolysis yields two molecules of salicylic acid
+(II), approximately 7-10% of the dose was not hydrolyzed to salicylic acid and
+appeared in the urine either as unchanged drug or glucuronide conjugates. Thus,
+the incomplete availability of salicylate from salsalate that has been previously
+reported may not be due to incomplete absorption of the drug but to incomplete
+hydrolysis to salicylic acid.
+
+
+
+
+
+Salsalate for arthritis: a clinical evaluation.
+
+
+
+In an open-label trial, 182 patients with common forms of arthritis were treated 
+with 3 gm of salsalate daily (two 750-mg tablets twice daily) for 15 days. Before
+entering the study, these patients had received a wide variety of antiarthritic
+medications. Five indices of disease severity (pain, stiffness, joint swelling,
+limitation of motion, and disability) were evaluated before and after salsalate
+therapy, the incidence of side effects was tabulated before and after treatment, 
+and patient compliance with the salsalate regimen was assessed. A reduction in
+disease symptoms was noted in 79% of the treated patients. Median improvement,
+measured on a summary index, was 47%. The incidence of side effects experienced
+with previous therapy was reduced by 65% during salsalate administration. Patient
+compliance with the regimen was greater than 95%. The findings show salsalate to 
+be effective and safe in ameliorating the symptoms of arthritic disease. The
+convenient twice-daily dosage regimen makes this drug particularly suitable for
+chronic use.
+
+
+
+
+
+Availability of salicylate from salsalate and aspirin.
+
+
+
+Salicylate availability from salsalate (SSA) and aspirin (ASA) was examined in
+six rheumatoid arthritis patients in a multiple-dose double-blind crossover
+study. Doses contained equimolar amounts of salicylic acid. After initial ASA
+treatment to achieve therapeutic salicylate levels (150 to 300 micrograms/ml) the
+patients received equimolar doses of SSA or ASA. When steady state was achieved
+patients were hospitalized, and blood and urine specimens were obtained during
+three dosing intervals and during the washout period that followed. Thereafter,
+patients were placed on the alternate medication for at least a week and the
+in-hospital pattern was repeated. Despite insignificant differences in absorption
+of the formulations, as measured by urinary salicylate recovery, the plasma
+salicylic acid AUC was lower after SSA. Evidence indicates that this apparent
+lower availability of salicylate from SSA is due to incomplete hydrolysis to
+salicylic acid, the unhydrolyzed SSA being excreted mainly as glucuronide
+conjugates.
+
+
+
+
+
+Effect of food on absorption of salicylate from salsalate capsules.
+
+
+
+
+
+
+
+Absorption, biotransformation, and pharmacokinetics of salicylsalicylic acid in
+humans.
+
+
+
+The absorption, biotransformation, and pharmacokinetics of the antiinflammatory
+drug salicylsalicylic acid (SSA) were studied. Healthy adult males received 1000 
+mg SSA and 1300 mg aspirin according to a crossover design either as a single
+oral dose (12 subjects) or three times a day for five days (4 subjects). A newly 
+developed, high-pressure liquid chromatographic assay permitted selective, direct
+measurement of SSA in the presence of high concentrations of salicylic acid, one 
+of its metabolites. Following a single dose, SSA was promptly absorbed (mean time
+to peak level 1.5 hour) and was eliminated from plasma with a mean half-life of
+did not accumulate in the plasma during multiple dosing. Plasma levels of
+salicylic acid following single and multiple doses of SSA indicate that SSA is
+extensively hydrolyzed to salicylic acid in the body. The slightly lower levels
+of salicylic acid after SSA than after aspirin may reflect direct
+biotransformation of some of the SSA to an SSA conjugate, without hydrolysis to
+salicylic acid.
+
+
+
+
+
+Comparison of serum salicylate levels and gastro-intestinal blood loss between
+salsalate (Disalcid)and other forms of salicylates.
+
+
+
+In a first stage the effect of a single dose of 3 g of salsalate on serum
+salicylate level was compared with a single intake of 3 g of soluble or
+enteric-coated acetylsalicylates in 12 healthy subjects. Salsalate seems to
+resorb faster than the enteric-coated forms but more slowly than the soluble
+forms of acetylsalicylate. However, in comparison with these latter forms,
+salsalate activity is more protracted. In the second part of the study, 42
+patients were admitted to a trial in which 3 to 5 g of salsalate was given daily 
+and in which serum salicylate levels and blood loss in stools were measured using
+the method of labelling red blood cells with Cr51. The ideal dosage to obtain a
+serum salicylate level of 20 mg/100 ml seems to lie between 3 and 4 g of
+salsalate a day. Salsalate caused abnormal gastro-intestinal blood loss in only 2
+of the 42 patients studied, which is significantly fewer compared with the
+soluble, intravenous or enteric-coated forms of acetylsalicylates.
+
+
+
+
+
+High-pressure liquid chromatographic determination of salicylsalicylic acid,
+aspirin, and salicylic acid in human plasma and urine.
+
+
+
+A high-pressure liquid chromatographic method was developed for the separation
+and quantitation of salicylsalicylic acid (I), aspirin (II), and salicylic acid
+(III) in human plasma and urine. The method for plasma involves the selective
+extraction of I--III and an internal standard, alpha-phenylcinnamic acid, into
+methylene chloride from acidified plasma, followed by evaporation of the organic 
+phase and dissolution of the residue in methanol. A 25-microliter aliquot is
+analyzed on a reversed-phase column with UV detection. Urine is treated similarly
+with hexane as the extracting solvent. If 300 nm is used as the monitoring
+wavelength, the assays of I and III are linear over the concentration range of
+wavelength, II can be quantitated along with I and III; however, detector
+sensitivities of I and III are two to three times greater at 300 nm. The accuracy
+and precision of the methods for I--III are adequate for clinical pharmacokinetic
+studies. Following therapeutic doses of I in humans, the method was applied
+successfully to the determination of I and III in plasma and urine.
+
+
+
+
+
+Lack of platelet effect with the aspirin analog, salsalate.
+
+
+
+Platelet function as determined by platelet aggregation and the release reaction 
+was found to be normal in 8 patients receiving a nonacetylated analog of aspirin,
+salsalate, while all 5 aspirin controls had abnormal platelet function. Mean
+bleeding time in patients taking salsalate was less than that in aspirin
+controls. This study demonstrates that salsalate, which has anti-inflammatory
+activity and reduces prostaglandin synthesis, does not interfere with normal
+platelet function.
+
+
+
+
+
+Salsalate: its role in the management of rheumatic disease.
+
+
+Our present array of nonsteroidal anti-inflammatory drugs (NSAIDs) provides many 
+more avenues for the long-term management of rheumatic disease. Their clinical
+efficacy notwithstanding, these drugs possess significant iatrogenic potential.
+These risks are typified by aspirin side effects, basically gastrointestinal,
+hematologic, and thrombopathic. Most of the NSAIDs share these liabilities.
+However, there is now wider appreciation of recent findings that nonacetylated
+salicylates, particularly salsalate, provide the benefits of aspirin and other
+NSAIDs but not their dangers. Salsalate is a prototypic drug of this class; it is
+reviewed in detail with appropriate comment concerning its present and potential 
+clinical contributions to antirheumatic therapy.
+
+
+
+
+
+Measurement of salicylsalicylic acid and salicylic acid in plasma by high
+pressure liquid chromatography.
+
+
+
+Salicylsalicylic acid (SS) and salicylic acid (SA) both appear in plasma after
+the oral ingestion of the former. They can be estimated in the presence of each
+other after extraction into dichloromethane using high pressure liquid
+chromatography. SS is unstable in plasma, being converted to SA in vitro.
+Conversion can be prevented by using ethylene diaminetetraacetic (EDTA) as an
+anticoagulant and carrying out the extraction in the cold. An aliquot of the
+extract is dried and dissolved in methanol. Weak solutions of SS in methanol are 
+unstable at room temperature. Methanolysis can be prevented by the addition of
+dilute hydrochloric acid. By adding phenylbutazone to the plasma as an internal
+standard, variations in extraction and sample application are nullified. Quality 
+control is achieved by concurrent extraction of two different plasma standards
+containing SS and SA in known amounts. About 40 ng of SS and SA can be detected; 
+reproducibility at 200 ng and above is better than 6.5 percent.
+
+
+
+
+
+Isolation of salicylsalicylic acid, acetylsalicylsalicylic acid, and
+acetylsalicylic anhydride from aspirin tablets by extraction and high-pressure
+liquid chromatography.
+
+
+
+Aspirin and four salicylate impurities of aspirin (salicylic acid,
+acetylsalicylsalicylic acid, acetylsalicylic anhydride, and salicylsalicylic
+acid) were resolved by silica gell TLC and by high-pressure liquid chromatography
+(HPLC) on a reversed-phase C18 column. Care was necessary in the choice of a
+column because of similar column failed to resolve these five compounds.
+Salicylsalicylic acid was isolated from aspirin tablets by extraction followed by
+reversed-phase C18 HPLC. The structure of this compound was confirmed by
+comparison with an authentic sample of salicylsalicylic acid by HPLC, TLC, IR and
+UV spectrophotometry, and mass spectrometry. Two other compounds, acetylsalicylic
+anhydride and acetylsalicylsalicylic acid, which had been previously identified
+by chromatography as impurities in aspirin, were isolated and further
+characterized.
+
+
+
+
+
+Fecal blood loss and plasma salicylate study of salicylsalicylic acid and
+aspirin.
+
+
+
+Using a placebo-controlled methodology, 20 healthy volunteers housed in a
+clinical research facility for 23 days were studied for fecal blood loss and
+plasma salicylate levels after taking salsalate (salicylsalicylic acid) or
+aspirin. Daily dosages were 3000 mg salsalate or 3900 mg aspirin. Aspirin
+produced statistically significant gastrointestinal blood loss over control
+levels and over that produced by salsalate (P less than 0.01). Blood loss with
+salsalate was not different than that with placebo. Despite the intentional
+disparity of dosages between the two drugs, plasma salicylate levels were not
+statistically different. Side effects occurred at about equal frequency with
+either drug. Most prominent were headache and nausea. However, concomitant upper 
+respiratory infection in 12 subjects rendered interpretation difficult.
+
+
+
+
+
+Salicylsalicylic acid revisited: a multicentre study.
+
+
+
+Twenty-eight medical specialists (internists, rheumatologists) selected 102
+primarily arthritic patients for a two-week efficacy and safety field study of
+salicylsalicylic acid. Data were gathered on pain, morning stiffness, range of
+motion, serum salicylate concentration, erythrocyte sedimentation rate (ESR) and 
+gastro-intestinal bleeding before and after a 15-day drug trial. Results showed a
+improvement in pain; the drug itself was well tolerated by 96% of patients.
+Response correlations with morning stiffness and range of motion were equivocal. 
+Of fifty-four patients examined before and after treatment for intestinal
+bleeding, only two (3.7%) had detectable faecal blood loss. Good clinical
+response had a statistically significant association with serum drug
+concentrations of 13.6 to 13.8 mg%; unsatisfactory response was noted in those
+patients with mean serum salicylate levels of 8.6 mg%. ESR decreased or was
+unchanged in thirty-five patients with satisfactory clinical response and in
+fourteen patients with unsatisfactory response.
+
+
+
+
+The use of salsalate for control of long-term musculo-skeletal pain: an open,
+non-comparative assessment.
+
+
+
+An open study was carried out in general practice to assess the analgesic
+effectiveness, tolerance and side-effects of salsalate when given at a dosage of 
+users were treated: they included 16 with active inflammatory disease of
+rheumatoid type, 20 with degenerative joint disease, and 27 with other
+musculo-skeletal conditions. Three patients were withdrawn during the study
+because of gastro-intestinal upset. Assessments, using rating scale scores, were 
+made pre-trial and at 2-weekly intervals of joint pain, other musculo-skeletal
+pain, and duration of morning stiffness. The results showed that there was marked
+improvement in joint pain and morning stiffness, particularly in those patients
+with inflammatory joint disease. Improvement in musculo-skeletal discomfort was
+less evident. Side-effects were reported on 24 occasions, the most frequent being
+dyspepsia. Faecal occult blood tests showed that there were 7 patients with
+probable blood loss during treatment, 4 of them, however, had no other clinical
+signs or symptoms of gastrointestinal intolerance.
+
+
+Comparative study of salsalate and aspirin in osteoarthrosis of the hip or knee.
+
+
+A short-term, double-blind controlled crossover study was carried out in 20
+patients with osteoarthrosis of the hip or knee to compare the effectiveness and 
+tolerance of salsalate and aspirin. After a 1-week placebo washout period,
+patients received either 3 g salsalate per day or 3.6 g soluble aspirin per day
+for 2 weeks before being crossed over to the alternative treatment. Paracetamol
+was used as a rescue analgesic. The results of clinical assessments of pain,
+stiffness and sleep disturbance, using visual analogue scales, showed that
+salsalate produced a comparable clinical improvement to that with aspirin, and
+similar serum salicylate levels. Salsalate, however, was significantly superior
+to aspirin with regard to side-effects and faecal occult blood loss.
+
+
+Salicylate-induced foetal damage during late pregnancy in mice: a comparison
+between sodium salicylate, acetylsalicylic acid and salicylsalicylic acid.
+
+
+
+Hydrolysis of salicylsalicylic acid in human blood and plasma: a comparison with 
+acetylsalicylic acid.
+
+
+
+Absence of gastrointestinal bleeding following administration of salicylsalicylic
+acid.
+
+
+
+[Gastrointestinal bleeding and salicylates. A comparative study between
+acetylsalicylic acid and salicylsalicylic acid].
+
+
+
+[Hydrolysis and in vivo elimination of various salicylate derivatives:
+salicylsalicylic acid and succinyldisalicylic acid; determination of hemicresis
+and protorrhea].
+
+AIx is a surrogate measure of peripheral arterial resistance and is measured by analysis of the pulse wave at the radial artery. The AIx is calculated as the ratio of the pulse pressure at the second systolic peak to that at the first systolic peak. Change is the difference between 6-week AIx from baseline AIx.
+Blood samples were collected for measurement of free fatty acids at baseline and 6 weeks after the Intralipid 20% infusion. FFA levels were determined by colorimetric method. Current guidelines identify normal range of FFA level as less than 0.72 mmol/L. Elevated plasma levels of FFA indicate a greater rate of insulin resistance. Change is the difference between 6-week FFA levels from baseline FFA levels.
+compare changes in insulin clearance as assessed by the GGIT before and after treatment with salsalate to placebo
+Compare changes in insulin sensitivity as assesses by the IST before and after treatment between salsalate and placebo group
+Diastolic blood pressure is the amount of pressure in the arteries when the heart is at rest between beats. Current guidelines identify normal diastolic blood pressure as lower than 80 mmHg. Blood pressure was measured in triplicate with a manual cuff prior to and every 4 hours during the 8 hour infusion with subjects in supine position. Change is the difference between 6-week diastolic blood pressure from baseline diastolic blood pressure.
+Energy level on a scale of 0 (no energy) to 10 (most energy) reported as ≤ 3. If the subject answers YES to any of the above noted 3 questions, then they are classified as FRAIL.
+Flow mediated dilation (FMD) of the brachial artery was measured by ultrasound. This is a measure of endothelial dependent endothelial cell function. Flow mediated dilation is expressed as a percent change from baseline brachial artery diameter to brachial artery diameter after reactive hyperemia. Reactive hyperemia occurred after occluding the brachial artery with a blood pressure cuff for 5 minutes.
+For fasting values treatments (placebo and salsalate) and visits (pre and post) were defined as within subject’s factors.
+For peak FFA area under the curve (AUC), treatments (placebo and salsalate) and visits (pre and post treatment) were defined as within-subject’s factors.
+For peak Glucose, and Glucose area under the curve (AUC), treatments (placebo and salsalate) and visits (pre and post treatment) were defined as within-subject’s factors.
+For peak TG, and TG area under the curve (AUC), treatments (placebo and salsalate) and visits (pre and post treatment) were defined as within-subject’s factors.
+HbA1c (%, percentage of HbA1c) change from baseline.
+HOMA-IR was not calcuated due to potential confounding effect of salicylates to inhibit insulin clearance. Change in C-peptide from Baseline to Week 14 is in the data table below
+HOMA-IR was not calcuated due to potential confounding effect of salicylates to inhibit insulin clearance. Change in insulin from Baseline to Week 14 in data table below.
+IL-1, IL-6, IL-12, TNF-alpha, and CRP are inflammatory biomarkers. Each was measured by using microsphere-based flow cytometric immunoassay. Change is the difference between 6-week inflammatory biomarkers from baseline inflammatory biomarkers.
+“In the past month, on average, have you been feeling unusually tired during the day?” is answered “yes” and indicated as “all of the time” or “most of the time.”
+“In the past month, on average, have you felt unusually weak?” is answered “yes” and indicated as “all of the time” or “most of the time.”
+Intra-epidermal Nerve Fiber Density (IENFD) was measured at two anatomic locations (thigh and ankle) at baseline and after 12 weeks of treatment with Salsalate. IENFD is expressed as fibers per mm. Means and standard deviations are shown.
+LDL-C/HDL-C ratio not calculated
+Oxidative stress was measured by using liquid chromatography to collect plasma glutathione and glutathione disulfide. Change is the difference between 6-week plasma glutathione and glutathione disulfide from baseline plasma glutathione and glutathione disulfide.
+Participants were admitted to the Clinical Research Units at 06:00–08:00 hours after an overnight fast. Euglycaemic–hyperinsulinaemic clamps were conducted at baseline and at the end of the study. Because salsalate therapy appears to decrease insulin clearance leading to higher circulating insulin levels during the clamp, we reduced the infusion rate of insulin in the active treatment arm by 20% (from 100 to 80 mUm−2 min−1) at the study end. Insulin solutions were prepared by the site pharmacist so that study staff remained blinded to drug assignment. Whole-body insulin sensitivity was estimated from glucose infusion rate (GIR) during last 30 min of insulin infusions.
+Please see adverse events module for hyperglycemia.
+PWV was measured between the carotid and femoral arteries using the SphygmoCor device. Pressure waveforms at the carotid and femoral arteries were acquired using EKG gating. Velocity (distance per time in milliseconds) was calculated using the foot-to-foot method and the distance between the sites was measured manually.
+See adverse event module for details.
+see primary outcome
+Subjective fatigue/exhaustion: If any of the following three criteria are met, the patient will be classified as frail for fatigue/exhaustion:
+Systolic blood pressure is the amount of pressure the heart generates when pumping blood through the arteries to the body. Current guidelines identify normal systolic blood pressure as lower than 120 mmHg. Blood pressure was measured in triplicate with a manual cuff prior to and every 4 hours during the 24-hour infusion with subjects in supine position. Change is the difference in systolic blood pressure at the baseline visit from pre-dosing with Intralipid to 12 hours during Intralipid infusion.
+Systolic blood pressure is the amount of pressure the heart generates when pumping blood through the arteries to the body. Current guidelines identify normal systolic blood pressure as lower than 120 mmHg. Blood pressure was measured in triplicate with a manual cuff prior to and every 4 hours during the 24-hour infusion with subjects in supine position. Change is the difference in systolic blood pressure at the baseline visit from pre-dosing with Intralipid to 16 hours during Intralipid infusion.
+Systolic blood pressure is the amount of pressure the heart generates when pumping blood through the arteries to the body. Current guidelines identify normal systolic blood pressure as lower than 120 mmHg. Blood pressure was measured in triplicate with a manual cuff prior to and every 4 hours during the 24-hour infusion with subjects in supine position. Change is the difference in systolic blood pressure at the baseline visit from pre-dosing with Intralipid to 20 hours during Intralipid infusion.
+Systolic blood pressure is the amount of pressure the heart generates when pumping blood through the arteries to the body. Current guidelines identify normal systolic blood pressure as lower than 120 mmHg. Blood pressure was measured in triplicate with a manual cuff prior to and every 4 hours during the 24-hour infusion with subjects in supine position. Change is the difference in systolic blood pressure at the baseline visit from pre-dosing with Intralipid to 24 hours during Intralipid infusion.
+Systolic blood pressure is the amount of pressure the heart generates when pumping blood through the arteries to the body. Current guidelines identify normal systolic blood pressure as lower than 120 mmHg. Blood pressure was measured in triplicate with a manual cuff prior to and every 4 hours during the 24-hour infusion with subjects in supine position. Change is the difference in systolic blood pressure at the baseline visit from pre-dosing with Intralipid to 4 hours during Intralipid infusion.
+Systolic blood pressure is the amount of pressure the heart generates when pumping blood through the arteries to the body. Current guidelines identify normal systolic blood pressure as lower than 120 mmHg. Blood pressure was measured in triplicate with a manual cuff prior to and every 4 hours during the 24-hour infusion with subjects in supine position. Change is the difference in systolic blood pressure at Week 6 from pre-dosing with Intralipid to 12 hours during Intralipid infusion.
+Systolic blood pressure is the amount of pressure the heart generates when pumping blood through the arteries to the body. Current guidelines identify normal systolic blood pressure as lower than 120 mmHg. Blood pressure was measured in triplicate with a manual cuff prior to and every 4 hours during the 24-hour infusion with subjects in supine position. Change is the difference in systolic blood pressure at Week 6 from pre-dosing with Intralipid to 16 hours during Intralipid infusion.
+Systolic blood pressure is the amount of pressure the heart generates when pumping blood through the arteries to the body. Current guidelines identify normal systolic blood pressure as lower than 120 mmHg. Blood pressure was measured in triplicate with a manual cuff prior to and every 4 hours during the 24-hour infusion with subjects in supine position. Change is the difference in systolic blood pressure at Week 6 from pre-dosing with Intralipid to 20 hours during Intralipid infusion.
+Systolic blood pressure is the amount of pressure the heart generates when pumping blood through the arteries to the body. Current guidelines identify normal systolic blood pressure as lower than 120 mmHg. Blood pressure was measured in triplicate with a manual cuff prior to and every 4 hours during the 24-hour infusion with subjects in supine position. Change is the difference in systolic blood pressure at Week 6 from pre-dosing with Intralipid to 24 hours during Intralipid infusion.
+Systolic blood pressure is the amount of pressure the heart generates when pumping blood through the arteries to the body. Current guidelines identify normal systolic blood pressure as lower than 120 mmHg. Blood pressure was measured in triplicate with a manual cuff prior to and every 4 hours during the 24-hour infusion with subjects in supine position. Change is the difference in systolic blood pressure at Week 6 from pre-dosing with Intralipid to 4 hours during Intralipid infusion.
+Systolic blood pressure is the amount of pressure the heart generates when pumping blood through the arteries to the body. Current guidelines identify normal systolic blood pressure as lower than 120 mmHg. Blood pressure was measured in triplicate with a manual cuff prior to and every 4 hours during the 24-hour infusion with subjects in supine position. Change is the difference in systolic blood pressure from at Week 6 from pre-dosing with Intralipid to 8 hours during Intralipid infusion.
+Systolic blood pressure is the amount of pressure the heart generates when pumping blood through the arteries to the body. Current guidelines identify normal systolic blood pressure as lower than 120 mmHg. Blood pressure was measured in triplicate with a manual cuff prior to and every 4 hours during the 24-hour infusion with subjects in supine position. from Change is the difference in systolic blood pressure at the baseline visit from pre-dosing with Intralipid to 8 hours during Intralipid.
+The change in endothelium-dependent vascular reactivity will be measured by flow-mediated dilation (FMD) of the brachial artery using a high-resolution vascular ultrasound with a 10-MHz linear array transducer. FMD is expressed as the percentage increase in diameter at the baseline visit from pre-dosing with Intralipid to 12 hours during Intralipid infusion.
+The change in endothelium-dependent vascular reactivity will be measured by flow-mediated dilation (FMD) of the brachial artery using a high-resolution vascular ultrasound with a 10-MHz linear array transducer. FMD is expressed as the percentage increase in diameter at the baseline visit from pre-dosing with Intralipid to 24 hours during Intralipid infusion
+The change in endothelium-dependent vascular reactivity will be measured by flow-mediated dilation (FMD) of the brachial artery using a high-resolution vascular ultrasound with a 10-MHz linear array transducer. FMD is expressed as the percentage increase in diameter at the Week 6 visit from pre-dosing with Intralipid to 12 hours during Intralipid infusion.
+The change in endothelium-dependent vascular reactivity will be measured by flow-mediated dilation (FMD) of the brachial artery using a high-resolution vascular ultrasound with a 10-MHz linear array transducer. FMD is expressed as the percentage increase in diameter at the Week 6 visit from pre-dosing with Intralipid to 24 hours during Intralipid infusion
+The change in frailty for fatigue/ exhaustion is defined as changing from frail at baseline to not frail at month 6 as reported by the subject.
+The postprandial glycemia is assessed by the change in the AUC for plasma glucose sampled before and after intervention at time points of 0 (immediately post-feeding) to 480 min.
+The postprandial lipemia is assessed by the change in the AUC for plasma Free fatty acids (FFA)sampled before and after intervention at time points of 0min immediately post feeding to 480 min.
+The postprandial lipemia is assessed by the change in the AUC for plasma triglycerides sampled before and after intervention at time points 0 (immediately post-feeding)to 480 min.
+The pro-atherogenic inflammatory mediators are assessed by the change in fasting values of Interleukin-6 in plasma concentration Pre and Post intervention at -30 min ( fasting).
+This aim was proposed for the TINSAL-T2D stage 2 trial and is separately reported.
+This Measure is reporting the number of participants with side effects as reported on the Side Effect Checklist used to monitor common medication side effects.
+This was an aim proposed for the longer duration study and is reported under TINSAL-T2D stage 2.
+To assess the impact of treatment of anemia with oral salsalate will improve 6 minute walk test (6MWT) distance from baseline to 6 months as measured in meters and centimeters.
+To assess whether oral salsalate improves serum biomarkers of erythropoiesis by decreasing growth differentiation factor-15 (GDF-15) in UAE subjects. Change in the GDF-15 from prior to study drug to 6 months.
+To assess whether oral salsalate improves serum biomarkers of erythropoiesis by increasing erythropoietin (Epo) in UAE subjects. Change in the Epo from prior to study drug to 6 months.
+To assess whether oral salsalate reduces C-reactive protein (CRP) in UAE subjects. Change in the CRP from prior to study drug to 6 months.
+To assess whether oral salsalate reduces markers of inflammation including IL-6 and Tumor Necrosis Factor Receptor1 (TNF-R1) in UAE subjects. Change in the marker from prior to study drug to 6 months.
+To compare the change in serum hepcidin levels between treatment groups and whether such a change is proportional to the decline in IL-6 levels. Change in the hepcidin from prior to study drug to 6 months. Positive changes represent increases in hepcidin levels and negative changes represent decreases.
+To examine whether there is an association between change in hemoglobin and changes in markers of inflammation from prior to study drug to 6 months. Inflammatory markers to be measured are iL-6, Tumor Necrosis Factor alpha Receptor1 (TNF-R1), and C-reactive protein (CRP) in anemia subjects.Correlation between change in the inflammatory markers and the change in HB from prior to study drug to 6 months.
+To quantify the impact of anemia treatment by salsalate on change in the frailty as measured by change in grip strength. Subjects squeeze the grip strength machine 3 times with each hand. For the frailty outcome the maximum grip strength from the dominant hand is used. (change from frail at baseline to not frail at 6 months). Grip strength is stratified by gender and BMI. For men with (BMI <= 24 and a grip strength (GS) <= 29) or (BMI 24.1-28 and grip strength <= 30) or (BMI >28 and a grip strength <= 32) were classified as "frail". For women with (BMI <= 23 and a grip strength of <= 17) or (BMI 23.1-26 and a GS <= 17.3) or (BMI 26.1-29 and a GS <= 18) or (BMI > 29 and a GS <= 21) were classified as "frail".The outcome is the number of participants who were classified as “frail” at baseline and changed to “not frail” at 6 months.
+To quantify the impact of anemia treatment by salsalate on change in the frailty as measured by change in self-reported activity level. Frailty for activity level is classified by subjects responses to 6physical activity questions on the short version of the Minnesota Leisure Time Activity Questionnaire , were related to walking for exercise, moderately strenuous outdoor chores, dancing, bowling, and regular exercise. The Women's Health And Aging Study (WHAS) scoring algorithm was used to define frailty for self-reported activity level. The answers to these questions were used to calculate kilocalories (Kcals) per week, using the WHAS algorithm, which is further satisfied by by gender. For men, Kcals < 128 per week is frail. For women, Kcals < 90 per week is frail. This is a categorical measurement of yes or no. The outcome is the number of participants who were classified as “frail” at baseline and changed to “not frail” at 6 months.
+To quantify the impact of anemia treatment by salsalate on change in the speed of the 4 meter walk speed. Subjects are asked to walk as fast as they can for 4 meters. Frailty was determined by the subject's speed. (change from frail at baseline to not frail at 6 months). 4 m walking speed is stratified by gender and height. For men, (height of <= 173 cm and a walking speed of <= 0.65 meter/sec) or a (height > 173, <= .76 meter/sec) were classified as "frail". For women, (height of <= 159 cm and a walking speed of <=.65 meter/sec) or (height >159 cm <= 0.76 meter/sec) were classified as "frail".The outcome is the number of participants who were classified as “frail” at baseline and changed to “not frail” at 6 months.
+To quantify the impact of anemia treatment by salsalate on cognitive outcomes based on Complex attention/executive processing was derived using the z-scores of the following three tests: (1) TMT Part B seconds per completed circle, (2) time score from the CogState One Back Task, and (3) accuracy score from the CogState One Back Task. The composite score for a subject at each time point was defined as the mean of the Z-scores for the three tests at the time point. For each subject, the Z-score for each test at time point was derived by subtracting the overall baseline mean of the test from the subject's score at the time point (accuracy score) or by subtracting the subject's score at the time point from the overall baseline mean of the test (TMT and time score) and then dividing by the overall baseline standard deviation of the test. Positive z-scores indicate a better performance compared to the baseline average. The change in the Z-score from baseline to month 6.
+To quantify the impact of anemia treatment by salsalate on cognitive outcomes based on Learning and memory was derived using the z-scores of the following three tests: (1) CogState ISL immediate recall score (total score from three learning trials), (2) CogState ISL immediate recall score from the first learning trial, and (3) CogState ISL delayed recall scores. The composite score for a subject at each time point was defined as the mean of the Z-scores for the three tests at the time point. For each subject, the Z-score for each test at time point was derived by subtracting the overall baseline mean of the test from the subject's score at the time point and then dividing by the overall baseline standard deviation of the test. Positive z-scores indicate a better performance compared to the baseline average. The change in the Z-score from baseline to month 6.
+To quantify the impact of anemia treatment by salsalate on cognitive outcomes based on speed of processing was derived using the z-scores of the following three tests: (1) TMT Part A seconds per completed circle, (2) simple reaction time from the CogState Detection Task, and (3) choice reaction time from the CogState Identification Task. The composite score for a subject at each time point was defined as the mean of the Z-scores for the three tests at the time point. For each subject, the Z-score for each test at time point was derived by subtracting the subject's score at the time point from the overall baseline mean of the test and then dividing by the overall baseline standard deviation of the test. Positive z-scores indicate a better performance compared to the baseline average.The change in the Z-score from baseline to month 6.
+To quantify the impact of anemia treatment by salsalate on cognitive outcomes based on the Trail Making Test (TMT) Part B as measured by subjects drawing a line from 25 circled numbers to letters in 300 seconds. The change in seconds per completed circle from baseline to month 6.
+To quantify the impact of anemia treatment by salsalate on self-reported outcomes measures by change in SF36 physical component score. The SF-36 form identifies self-report physical function and global measure of quality of life and is a multi-purpose, short-form health survey consisting of 36 questions. The Physical Component Summary (PCS) is a subscale of the SF-36 that correlates with physical health domains of the SF-36 ( Physical Function, Role-Physical, and Bodily Pain). The change is calculated and compared from baseline to 6 months. The SF-36 PCS score is a norm based sore with a mean of 50 and standard deviation of 10 where results above and below 50 are above and below the average, respectively, in the 2009 general US population.
+To quantify the impact of anemia treatment by salsalate on self -reported outcomes measures by subjects answering 47 questions for patients with anemia and or fatigue. This test detects self-report functional changes and QoL. Change from baseline to 6 months. Scores range from 0-188 with higher scores indicating better function.
+To test whether the administration of oral salsalate to a subset of elderly subjects with unexplained anemia (UAE) and high interleukin (IL-6) levels will improve hemoglobin level
+
