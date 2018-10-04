@@ -11,19 +11,26 @@ The methods of sentence Vec:
 
 
 Here is some examples:
+
   sentence 1 : Salsalate is a prodrug of salicylate
+  
   sentence 2 : Salsalate is an inflammatory drug
-  >>>CompareSentence(sentence1,sentence2)
-  >>>111.72
+  
+  CompareSentence(sentence1,sentence2)
+  
+  111.72
   
   
   sentence1 : she is very sad
   sentence2 : she is bery happy
-  >>>CompareSentecne(sentence1,sentence2)
-  >>>24.49
+ 
+  CompareSentecne(sentence1,sentence2)
+  24.49
   
   
   sentence1 : where was I Harry said
+  
   sentence2 : Hermione had never been here
-  >>>CompareSentence(sentence1,sentence2)
-  >>>84.84
+  
+  CompareSentence(sentence1,sentence2)
+  84.84
