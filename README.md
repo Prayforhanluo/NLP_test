@@ -18,7 +18,7 @@ Here is some examples:
   
   CompareSentence(sentence1,sentence2)
   
-  111.72
+  111.72°
   
   
   sentence1 : she is very sad
@@ -26,7 +26,8 @@ Here is some examples:
   sentence2 : she is bery happy
  
   CompareSentecne(sentence1,sentence2)
-  24.49
+  
+  24.49°
   
   
   sentence1 : where was I Harry said
@@ -34,4 +35,5 @@ Here is some examples:
   sentence2 : Hermione had never been here
   
   CompareSentence(sentence1,sentence2)
-  84.84
+  
+  84.84°
