@@ -23,7 +23,7 @@ Here is some examples:
   
   sentence1 : she is very sad
   
-  sentence2 : she is bery happy
+  sentence2 : she is very happy
  
   CompareSentecne(sentence1,sentence2)
   
